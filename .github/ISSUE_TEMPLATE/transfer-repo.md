@@ -10,8 +10,8 @@ assignees: davidwboswell, ryjones, SeanBohan, tkhurt, lehors
 Please include:
 
 * GitHub repo to transfer:
-* Project to be added to: 
-* Teams with which access: (examples [on GitHub team list](https://github.com/orgs/hyperledger/teams))
+* Lab to be added to: 
+* Teams with which access: (examples [on GitHub team list](https://github.com/orgs/hyperledger-labs/teams))
 	* Team name:
 	* Role:
 		- Read

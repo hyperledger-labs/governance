@@ -10,7 +10,7 @@ assignees: davidwboswell, ryjones, SeanBohan, tkuhrt, lehors
 Please include:
 
 * GitHub ID to add: 
-* Project to be added to: 
+* Lab to be added to: 
 * Role:
 	- Read
 	- Triage
