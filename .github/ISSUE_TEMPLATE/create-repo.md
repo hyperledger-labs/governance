@@ -3,7 +3,7 @@ name: Create a new repo in the Hyperledger Labs GitHub org
 about: create repository
 title: Create a New Repo
 labels: New Hyperledger Labs Repo
-assignees: davidwboswell, ryjones, SeanBohan, tkuhrt, lehors
+assignees: davidwboswell, ryjones, SeanBohan, knagware9, tkuhrt, vipinsun, nidhi-singh02
 
 ---
 

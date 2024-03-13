@@ -3,7 +3,7 @@ name: Transfer a repo to the Hyperledger Labs GitHub org
 about: request repo transfer
 title: Transfer a repo
 labels: New Hyperledger Labs Repo
-assignees: davidwboswell, ryjones, SeanBohan, tkhurt, lehors
+assignees: davidwboswell, ryjones, SeanBohan, knagware9, tkuhrt, vipinsun, nidhi-singh02
 
 ---
 
