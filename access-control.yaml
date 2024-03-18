@@ -1,0 +1,1002 @@
+teams:
+- name: agora-glass_pumpkin-maintainers
+  maintainers:
+  - mikelodder7
+  members: []
+- name: agora_lab_admins
+  maintainers:
+  - mikelodder7
+  members: []
+- name: aifaq-maintainers
+  maintainers:
+  - gcapuzzi
+  members: []
+- name: aries-agent-controller-maintainers
+  maintainers:
+  - tkuhrt
+  members:
+  - data-douser
+  - monar24
+- name: aries-sdk-mendix-maintainers
+  maintainers:
+  - jorgefl0
+  - tkuhrt
+  - skullquake
+  members: []
+- name: bccb-maintainers
+  maintainers: []
+  members:
+  - RafaelAPB
+  - AndreAugusto11
+  - shankars99
+- name: bdls-admin
+  maintainers: []
+  members:
+  - ahmed82
+- name: bdls-maintainers
+  maintainers: []
+  members:
+  - ahmed82
+  - sadityakumar9211
+- name: blockchain-carbon-accounting-committers
+  maintainers:
+  - sichen1234
+  - brioux
+  - knagware9
+  members:
+  - jwickers
+  - rybalko
+- name: blockchain-explorer
+  maintainers:
+  - arsulegai
+  members:
+  - saundarya-saurabh
+  - arigelas
+  - adityajoshi12
+  - ArchanaArige
+  - Anusha-Padmanabhan
+- name: blockchain-explorer-admins
+  maintainers:
+  - arsulegai
+  members:
+  - ArchanaArige
+- name: cardea-admins
+  maintainers: []
+  members:
+  - JamesKEbert
+- name: cardea-contributors
+  maintainers: []
+  members:
+  - reflectivedevelopment
+  - dbluhm
+  - stevedavisbiz
+  - JamesKEbert
+  - Eldersonar
+  - lynnbendixsen
+  - AmmonBurgi
+  - KeelaShatzkin
+- name: cc-tools-admin
+  maintainers:
+  - samuelvenzi
+  members: []
+- name: cc-tools-committers
+  maintainers:
+  - samuelvenzi
+  members:
+  - andremacedopv
+  - mikaellafs
+  - lucas-campelo
+  - AlineLermen
+  - jamillepp
+- name: cc-tools-maintainers
+  maintainers:
+  - samuelvenzi
+  members:
+  - andremacedopv
+  - mikaellafs
+  - lucas-campelo
+- name: cckit-committers
+  maintainers: []
+  members:
+  - vitiko
+  - darkleaf
+  - kukgini
+  - larsvliet
+  - inotnako
+  - dimaxgl
+  - czar0
+  - bogatyr285
+  - criro1
+- name: did-webs-resolver-maintainers
+  maintainers:
+  - peacekeeper
+  - swcurran
+  members:
+  - 2byrds
+- name: documentation-template-committers
+  maintainers:
+  - tkuhrt
+  members: []
+- name: electrodo-docs-maintainers
+  maintainers: []
+  members: []
+- name: fablo-maintainers
+  maintainers:
+  - dzikowski
+  members:
+  - Hejwo
+  - gzhk
+- name: fabric-ansible-collection-committers
+  maintainers:
+  - mbwhite
+  members:
+  - MuthuSundaravadivel
+  - celder628
+  - modemn
+- name: fabric-builder-k8s-maintainers
+  maintainers:
+  - jt-nti
+  members: []
+- name: fabric-channeled-add-ons-gen-committers
+  maintainers:
+  - LoniasGR
+  - nkapsoulis
+  members: []
+- name: fabric-operations-console-maintainers
+  maintainers:
+  - varadgit
+  - dshuffma-ibm
+  members:
+  - ptippett
+  - denyeart
+  - ketulsha
+  - ckpaliwal
+- name: fabric-operator-committers
+  maintainers: []
+  members:
+  - asararatnakar
+  - shoaebjindani
+  - jkneubuh
+- name: fabric-opssc
+  maintainers:
+  - tkuhrt
+  members:
+  - shimos
+  - satota2
+- name: fabric-smart-client-committers
+  maintainers:
+  - adecaro
+  - yacovm
+  members:
+  - mbrandenburger
+  - mffrench
+  - arner
+  - davidkel
+  - HagarMeir
+  - ale-linux
+  - KElkhiyaoui
+  - sapthasurendran
+  - alexandrosfilios
+- name: fabric-token-java-sdk-maintainers
+  maintainers:
+  - smallestant
+  members: []
+- name: fabric-token-sdk-committers
+  maintainers:
+  - adecaro
+  - yacovm
+  members:
+  - mbrandenburger
+  - mffrench
+  - arner
+  - davidkel
+  - HagarMeir
+  - ale-linux
+  - KElkhiyaoui
+  - sapthasurendran
+  - alexandrosfilios
+- name: harmonia-committers
+  maintainers:
+  - eierina
+  - gendal
+  members:
+  - petermunnings
+  - coeniebeyers
+  - fowlerrr
+  - MarkOldfield
+  - r3domfox
+  - mkrielza
+  - ILoomans
+- name: hlf-connector-maintainers
+  maintainers:
+  - arsulegai
+  members:
+  - nithin-pankaj
+  - adityajoshi12
+  - nidhi-singh02
+  - weihong-ou
+- name: hyperledger-contributors
+  maintainers:
+  - thelinuxfoundation
+  - tkuhrt
+  - askb
+  - jwagantall
+  - hartm
+  members:
+  - jwickers
+  - frank-bee
+  - g2flyer
+  - reflectivedevelopment
+  - rybalko
+  - nhoriguchi
+  - cmickeyb
+  - knarayan
+  - siburu
+  - shimos
+  - adecaro
+  - seanyoung
+  - mbrandenburger
+  - swcurran
+  - varadgit
+  - bluele
+  - '3100'
+  - maniankara
+  - petermetz
+  - davidwboswell
+  - sichen1234
+  - ceilican
+  - ianco
+  - litong01
+  - domwoe
+  - kushti
+  - awrichar
+  - nguyer
+  - sebastianst
+  - C0rWin
+  - ermyas
+  - raphaelvrosa
+  - aguel
+  - vipinsun
+  - danielksan81
+  - kleash
+  - bestbeforetoday
+  - dcmiddle
+  - brioux
+  - jimthematrix
+  - vdamle
+  - Jsyro
+  - mffrench
+  - lehors
+  - peterbroadhurst
+  - adlrocha
+  - jyellick
+  - yacovm
+  - xermicus
+  - manju956
+  - ptippett
+  - lamnd09
+  - prakashngit
+  - WadeBarnes
+  - ghaemisr
+  - shorsher
+  - matejpavlovic
+  - RafaelAPB
+  - dileban
+  - sergefdrv
+  - RmbRT
+  - etschelp
+  - MoritzKa
+  - VRamakrishna
+  - LoniasGR
+  - dshuffma-ibm
+  - choeppler
+  - nickgaski
+  - sandeepnRES
+  - Yining-Hu
+  - karthikamurthy
+  - denyeart
+  - mtnieto
+  - sownak
+  - dhinakaran2705
+  - hritikgupta
+  - matthewhall78
+  - jaredweinfurtner
+  - knagware9
+  - mrakhmilevich
+  - vadiminshakov
+  - arsulegai
+  - oskin1
+  - ale-linux
+  - JamesKEbert
+  - wit-dan
+  - bvavala
+  - akareem89
+  - nkapsoulis
+  - udosson
+  - usingtechnology
+  - SherwoodMoore
+  - l-wegner
+  - gabriel-indik
+  - GGabi
+  - Eldersonar
+  - Zzocker
+  - lynnbendixsen
+  - KElkhiyaoui
+  - Pihu1998
+  - weihong-ou
+  - hs2361
+  - suvajit-sarkar
+  - juraj-durech
+  - jagpreetsinghsasan
+  - deepakkumardbd
+  - satota2
+  - AmmonBurgi
+  - itaru2622
+  - douniamarbouh
+  - NIKU-SINGH
+  - alvaropicazo
+  - ragalz
+  - harisj-xlnx
+  - KeelaShatzkin
+  - alexandrosfilios
+- name: hyperledger-community-management-tools-committers
+  maintainers:
+  - vipinsun
+  - tkuhrt
+  - lehors
+  members: []
+- name: lab-stewards
+  maintainers:
+  - tkuhrt
+  members:
+  - vipinsun
+  - lehors
+  - knagware9
+  - nidhi-singh02
+- name: learning-tokens-maintainers
+  maintainers: []
+  members:
+  - TanjinAlam
+  - Jmarvin-12
+- name: lf-employees
+  maintainers:
+  - ryjones
+  - SeanBohan
+  - thelinuxfoundation
+  - askb
+  - jwagantall
+  - hyperledger-bot
+  members:
+  - davidwboswell
+  - helengarno
+- name: mosaique-decentralized-workflows-committers
+  maintainers: []
+  members:
+  - dave-promulgare
+- name: open-enterprise-agent-admins
+  maintainers:
+  - bvoiturier
+  - yshyn-iohk
+  - davidpoltorak-io
+  members:
+  - mineme0110
+  - atala-dev
+  - patlo-iog
+- name: open-enterprise-agent-committers
+  maintainers:
+  - antonbaliasnikov
+  members:
+  - BS-IO
+  - womfoo
+  - elribonazo
+  - FabioPinheiro
+  - milosh86
+  - bvoiturier
+  - curtis-h
+  - EzequielPostan
+  - bsandmann
+  - shotexa
+  - dorultan
+  - lohanspies
+  - milosbackonja
+  - mineme0110
+  - CryptoKnightIOG
+  - goncalo-frade-iohk
+  - petevielhaber
+  - mkbreuningIOHK
+  - amagyar-iohk
+  - yshyn-iohk
+  - essbante-io
+  - patlo-iog
+  - davidpoltorak-io
+  - cristianIOHK
+- name: open-enterprise-agent-contributors
+  maintainers:
+  - antonbaliasnikov
+  members:
+  - BS-IO
+  - womfoo
+  - elribonazo
+  - hamada147
+  - FabioPinheiro
+  - milosh86
+  - bvoiturier
+  - curtis-h
+  - EzequielPostan
+  - bsandmann
+  - shotexa
+  - dorultan
+  - lohanspies
+  - milosbackonja
+  - mineme0110
+  - atala-dev
+  - CryptoKnightIOG
+  - goncalo-frade-iohk
+  - petevielhaber
+  - mkbreuningIOHK
+  - amagyar-iohk
+  - yshyn-iohk
+  - essbante-io
+  - patlo-iog
+  - davidpoltorak-io
+  - cristianIOHK
+  - todorkoleviohk
+- name: open-enterprise-agent-maintainers
+  maintainers:
+  - antonbaliasnikov
+  - yshyn-iohk
+  members:
+  - bsandmann
+  - patlo-iog
+  - davidpoltorak-io
+- name: organizational-agent-committers
+  maintainers:
+  - swcurran
+  - domwoe
+  - tkuhrt
+  - WadeBarnes
+  - DritonGoxhufi
+  members:
+  - frank-bee
+  - Jsyro
+  - etschelp
+  - MoritzKa
+  - matthewhall78
+  - wit-dan
+  - l-wegner
+  - schlagtim
+- name: orion-admins
+  maintainers:
+  - C0rWin
+  members:
+  - cendhu
+  - tock-ibm
+  - gennadylaventman
+- name: orion-committers
+  maintainers:
+  - C0rWin
+  members:
+  - liran-funaro
+  - cendhu
+  - tock-ibm
+  - gennadylaventman
+  - dany-moshkovich
+  - MayRosenbaum
+- name: orion-server-admins
+  maintainers:
+  - cendhu
+  - tock-ibm
+  members: []
+- name: perun-admins
+  maintainers:
+  - tkuhrt
+  - choeppler
+  members: []
+- name: perun-committers
+  maintainers:
+  - choeppler
+  members:
+  - sebastianst
+  - danielksan81
+  - iljabvh
+  - DragonDev1906
+  - RmbRT
+  - tinnendo
+  - manoranjith
+  - cryptphil
+  - NhoxxKienn
+  - sophia1ch
+- name: private-data-objects-committers
+  maintainers:
+  - cmickeyb
+  - tkuhrt
+  members:
+  - g2flyer
+  - prakashngit
+  - bvavala
+  - akareem89
+  - marcelamelara
+- name: security-managers
+  maintainers:
+  - ryjones
+  - hartm
+  members: []
+- name: security-notices
+  maintainers:
+  - ryjones
+  - tkuhrt
+  members: []
+- name: smartbft-maintainers
+  maintainers:
+  - yacovm
+  members:
+  - C0rWin
+  - pfi79
+  - tock-ibm
+  - HagarMeir
+- name: solang-playground-committers
+  maintainers: []
+  members:
+  - salaheldinsoliman
+- name: splice-maintainers
+  maintainers:
+  - waynecollier-da
+  members:
+  - isegall-da
+- name: tdidn-maintainers
+  maintainers:
+  - dinkar-jain
+  members: []
+- name: weaver-admins
+  maintainers:
+  - VRamakrishna
+  - sandeepnRES
+  members: []
+- name: weaver-dlt-interoperability-committers
+  maintainers:
+  - VRamakrishna
+  members:
+  - knarayan
+  - SIKHAR405
+  - ghoshbishakh
+  - dileban
+  - sandeepnRES
+  - Yining-Hu
+  - dhinakaran2705
+  - GGabi
+- name: yui-committers
+  maintainers:
+  - bluele
+  - '3100'
+  members:
+  - siburu
+repositories:
+- name: acapy-java-client
+  teams:
+    organizational-agent-committers: maintain
+    security managers: read
+  visibility: public
+- name: agora-glass_pumpkin
+  teams:
+    security managers: read
+    agora-glass_pumpkin maintainers: maintain
+    agora_lab_admins: admin
+  visibility: public
+- name: agora-key-share-proofs
+  teams:
+    security managers: read
+    agora_lab_admins: admin
+    agora-glass_pumpkin maintainers: maintain
+  visibility: public
+- name: agora-unknown_order
+  teams:
+    security managers: read
+    agora-glass_pumpkin maintainers: maintain
+    agora_lab_admins: admin
+  visibility: public
+- name: agora-verifiable-encryption
+  teams:
+    agora-glass_pumpkin maintainers: maintain
+    agora_lab_admins: admin
+    security managers: read
+  visibility: public
+- name: aifaq
+  teams:
+    security managers: read
+    aifaq maintainers: maintain
+  visibility: public
+- name: aries-agent-controller
+  teams:
+    aries-agent-controller-maintainers: write
+    security managers: read
+  visibility: public
+- name: aries-sdk-mendix
+  teams:
+    security managers: read
+    aries-sdk-mendix-maintainers: maintain
+  visibility: public
+- name: bdls
+  teams:
+    security managers: read
+    bdls-maintainers: maintain
+    bdls-admin: admin
+  visibility: public
+- name: benchmarking-cross-chain-bridges
+  teams:
+    BCCB maintainers: maintain
+    security managers: read
+  visibility: public
+- name: blockchain-carbon-accounting
+  teams:
+    security managers: read
+    blockchain-carbon-accounting committers: maintain
+  visibility: public
+- name: blockchain-explorer
+  collaborators:
+    arigelas: maintain
+    SunnyAjin: maintain
+    Udhayakumari: maintain
+    Anusha-Padmanabhan: maintain
+    ArchanaArige: admin
+    vineeth2328: maintain
+    adityajoshi12: maintain
+    manishdas12: maintain
+  teams:
+    security managers: read
+    blockchain-explorer: maintain
+    blockchain-explorer-admins: admin
+  visibility: public
+- name: cardea
+  teams:
+    Cardea Admins: maintain
+    Cardea Contributors: write
+    security managers: read
+  visibility: public
+- name: cardea-docker
+  teams:
+    Cardea Contributors: write
+    security managers: read
+    Cardea Admins: maintain
+  visibility: public
+- name: cardea-health-issuer-controller
+  teams:
+    security managers: read
+    Cardea Contributors: write
+    Cardea Admins: maintain
+  visibility: public
+- name: cardea-health-issuer-ui
+  teams:
+    Cardea Admins: maintain
+    Cardea Contributors: write
+    security managers: read
+  visibility: public
+- name: cardea-mobile-agent
+  teams:
+    Cardea Admins: maintain
+    security managers: read
+    Cardea Contributors: write
+  visibility: public
+- name: cardea-mobile-secondary-verifier-agent
+  teams:
+    security managers: read
+    Cardea Contributors: write
+    Cardea Admins: maintain
+  visibility: public
+- name: cardea-primary-verifier-controller
+  teams:
+    Cardea Contributors: write
+    Cardea Admins: maintain
+    security managers: read
+  visibility: public
+- name: cardea-primary-verifier-ui
+  teams:
+    Cardea Contributors: write
+    security managers: read
+    Cardea Admins: maintain
+  visibility: public
+- name: cardea-secondary-verifier-controller
+  teams:
+    security managers: read
+    Cardea Contributors: write
+    Cardea Admins: maintain
+  visibility: public
+- name: cardea-secondary-verifier-ui
+  teams:
+    Cardea Admins: maintain
+    Cardea Contributors: write
+    security managers: read
+  visibility: public
+- name: cardea.app
+  teams:
+    Cardea Admins: admin
+    Cardea Contributors: write
+    security managers: read
+  visibility: public
+- name: cc-tools
+  teams:
+    cc-tools-admin: admin
+    cc-tools-maintainers: maintain
+    security managers: read
+    cc-tools-committers: write
+  visibility: public
+- name: cc-tools-demo
+  teams:
+    cc-tools-maintainers: maintain
+    security managers: read
+    cc-tools-committers: write
+    cc-tools-admin: admin
+  visibility: public
+- name: cc-tools-doc
+  teams:
+    cc-tools-maintainers: maintain
+    cc-tools-committers: write
+    cc-tools-admin: admin
+    security managers: read
+  visibility: public
+- name: cckit
+  teams:
+    security managers: read
+    cckit-committers: maintain
+  visibility: public
+- name: did-webs-resolver
+  teams:
+    security managers: read
+    did-webs-resolver maintainers: maintain
+  visibility: public
+- name: documentation-template
+  teams:
+    documentation-template-committers: maintain
+    security managers: read
+  visibility: public
+- name: Electrodo.Docs
+  teams:
+    Electrodo.Docs maintainers: maintain
+    security managers: read
+  visibility: public
+- name: fablo
+  teams:
+    fablo maintainers: admin
+    security managers: read
+  visibility: public
+- name: fabric-ansible-collection
+  teams:
+    fabric-ansible-collection committers: admin
+    security managers: read
+  visibility: public
+- name: fabric-builder-k8s
+  teams:
+    security managers: read
+    fabric-builder-k8s-maintainers: admin
+  visibility: public
+- name: fabric-channeled-add-ons-gen
+  teams:
+    security managers: read
+    fabric-channeled-add-ons-gen committers: write
+  visibility: public
+- name: fabric-operations-console
+  teams:
+    fabric-operations-console-maintainers: maintain
+    security managers: read
+  visibility: public
+- name: fabric-operator
+  teams:
+    fabric-operator-committers: maintain
+    security managers: read
+  visibility: public
+- name: fabric-opssc
+  collaborators:
+    shimos: maintain
+    satota2: maintain
+  teams:
+    fabric-opssc: maintain
+    security managers: read
+  visibility: public
+- name: fabric-smart-client
+  teams:
+    fabric-smart-client-committers: maintain
+    security managers: read
+  visibility: public
+- name: Fabric-Token-Java-SDK
+  teams:
+    Fabric-Token-Java-SDK-maintainers: maintain
+    security managers: read
+  visibility: public
+- name: fabric-token-sdk
+  teams:
+    security managers: read
+    fabric-token-sdk-committers: maintain
+  visibility: public
+- name: go-perun
+  teams:
+    perun-admins: admin
+    perun-committers: write
+    security managers: read
+  visibility: public
+- name: governance
+  teams:
+    lab-stewards: maintain
+    security managers: read
+  visibility: public
+- name: harmonia
+  teams:
+    harmonia-committers: maintain
+    security managers: read
+  visibility: public
+- name: hlf-connector
+  teams:
+    security managers: read
+    hlf-connector-maintainers: maintain
+  visibility: public
+- name: hyperledger-community-management-tools
+  teams:
+    hyperledger-community-management-tools-committers: maintain
+    security managers: read
+  visibility: public
+- name: hyperledger-labs.github.io
+  teams:
+    lab-stewards: admin
+    security managers: read
+  visibility: public
+- name: learning-tokens
+  teams:
+    learning-tokens-maintainers: maintain
+    security managers: read
+  visibility: public
+- name: mosaique-decentralized-workflows
+  teams:
+    mosaique-decentralized-workflows committers: maintain
+    security managers: read
+  visibility: public
+- name: open-enterprise-agent
+  teams:
+    security managers: read
+    open-enterprise-agent-admins: admin
+    open-enterprise-agent-committers: write
+    open-enterprise-agent-contributors: read
+    open-enterprise-agent-maintainers: maintain
+  visibility: public
+- name: orion-sdk-go
+  collaborators:
+    gennadylaventman: admin
+    MayRosenbaum: maintain
+    liran-funaro: maintain
+  teams:
+    orion-committers: maintain
+    security managers: read
+    orion-admins: admin
+    orion-server-admins: admin
+  visibility: public
+- name: orion-server
+  collaborators:
+    gennadylaventman: admin
+    MayRosenbaum: maintain
+    liran-funaro: maintain
+  teams:
+    orion-server-admins: admin
+    orion-committers: maintain
+    orion-admins: admin
+    security managers: read
+  visibility: public
+- name: pdo-contracts
+  teams:
+    private-data-objects-committers: maintain
+    security managers: read
+  visibility: public
+- name: perun-cosmwasm-backend
+  teams:
+    perun-committers: maintain
+    perun-admins: admin
+    security managers: read
+  visibility: public
+- name: perun-cosmwasm-contract
+  teams:
+    perun-admins: admin
+    perun-committers: maintain
+    security managers: read
+  visibility: public
+- name: perun-credential-payment
+  teams:
+    perun-admins: admin
+    perun-committers: write
+    security managers: read
+  visibility: public
+- name: perun-doc
+  teams:
+    perun-admins: admin
+    perun-committers: write
+    security managers: read
+  visibility: public
+- name: perun-eth-backend
+  teams:
+    perun-admins: admin
+    perun-committers: write
+    security managers: read
+  visibility: public
+- name: perun-eth-contracts
+  teams:
+    security managers: read
+    perun-admins: admin
+    perun-committers: write
+  visibility: public
+- name: perun-node
+  teams:
+    perun-committers: write
+    security managers: read
+    perun-admins: admin
+  visibility: public
+- name: perun-proposals
+  teams:
+    perun-committers: write
+    security managers: read
+    perun-admins: admin
+  visibility: public
+- name: perun-rs
+  teams:
+    security managers: read
+    perun-admins: maintain
+    perun-committers: write
+  visibility: public
+- name: pluggable-hcs
+  teams:
+    security managers: read
+  visibility: public
+- name: private-data-objects
+  teams:
+    private-data-objects-committers: maintain
+    security managers: read
+  visibility: public
+- name: SmartBFT
+  teams:
+    SmartBFT-maintainers: admin
+    security managers: read
+  visibility: public
+- name: solang-playground
+  teams:
+    security managers: read
+    solang-playground-committers: maintain
+  visibility: public
+- name: splice
+  teams:
+    security managers: read
+    splice-maintainers: admin
+  visibility: public
+- name: TDIDN
+  teams:
+    TDIDN-maintainers: maintain
+    security managers: read
+  visibility: public
+- name: toc-eligibility-check
+  teams:
+    security managers: read
+  visibility: public
+- name: weaver-dlt-interoperability
+  teams:
+    security managers: read
+    weaver-dlt-interoperability-committers: maintain
+    weaver-admins: admin
+  visibility: public
+- name: yui-corda-ibc
+  teams:
+    security managers: read
+    yui-committers: maintain
+  visibility: public
+- name: yui-docs
+  teams:
+    yui-committers: maintain
+    security managers: read
+  visibility: public
+- name: yui-fabric-ibc
+  teams:
+    security managers: read
+    yui-committers: maintain
+  visibility: public
+- name: yui-ibc-solidity
+  teams:
+    security managers: read
+    yui-committers: maintain
+  visibility: public
+- name: yui-relayer
+  teams:
+    security managers: read
+    yui-committers: maintain
+  visibility: public
