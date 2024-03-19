@@ -2,15 +2,12 @@ teams:
 - name: agora-glass_pumpkin-maintainers
   maintainers:
   - mikelodder7
-  members: []
 - name: agora_lab_admins
   maintainers:
   - mikelodder7
-  members: []
 - name: aifaq-maintainers
   maintainers:
   - gcapuzzi
-  members: []
 - name: aries-agent-controller-maintainers
   maintainers:
   - tkuhrt
@@ -20,9 +17,8 @@ teams:
 - name: aries-sdk-mendix-maintainers
   maintainers:
   - jorgefl0
-  - tkuhrt
   - skullquake
-  members: []
+  - tkuhrt
 - name: bccb-maintainers
   maintainers:
   - RafaelAPB
@@ -32,7 +28,6 @@ teams:
 - name: bdls-admin
   maintainers:
   - ahmed82
-  members: []
 - name: bdls-maintainers
   maintainers:
   - ahmed82
@@ -40,73 +35,71 @@ teams:
   - sadityakumar9211
 - name: blockchain-carbon-accounting-committers
   maintainers:
-  - sichen1234
   - brioux
   - knagware9
+  - sichen1234
   members:
   - jwickers
   - rybalko
-- name: blockchain-explorer
-  maintainers:
-  - arsulegai
-  members:
-  - saundarya-saurabh
-  - arigelas
-  - adityajoshi12
-  - ArchanaArige
-  - Anusha-Padmanabhan
 - name: blockchain-explorer-admins
   maintainers:
   - arsulegai
   members:
   - ArchanaArige
+- name: blockchain-explorer
+  maintainers:
+  - arsulegai
+  members:
+  - Anusha-Padmanabhan
+  - ArchanaArige
+  - adityajoshi12
+  - arigelas
+  - saundarya-saurabh
 - name: cardea-admins
   maintainers:
   - JamesKEbert
-  members: []
 - name: cardea-contributors
   maintainers:
   - JamesKEbert
   members:
-  - reflectivedevelopment
-  - dbluhm
-  - stevedavisbiz
-  - Eldersonar
-  - lynnbendixsen
   - AmmonBurgi
+  - Eldersonar
   - KeelaShatzkin
+  - dbluhm
+  - lynnbendixsen
+  - reflectivedevelopment
+  - stevedavisbiz
 - name: cc-tools-admin
   maintainers:
   - samuelvenzi
-  members: []
 - name: cc-tools-committers
   maintainers:
   - samuelvenzi
   members:
-  - andremacedopv
-  - mikaellafs
-  - lucas-campelo
   - AlineLermen
+  - andremacedopv
   - jamillepp
+  - lucas-campelo
+  - mikaellafs
 - name: cc-tools-maintainers
   maintainers:
   - samuelvenzi
   members:
   - andremacedopv
-  - mikaellafs
   - lucas-campelo
+  - mikaellafs
 - name: cckit-committers
   maintainers:
   - darkleaf
   members:
-  - vitiko
-  - kukgini
-  - larsvliet
-  - inotnako
-  - dimaxgl
-  - czar0
   - bogatyr285
   - criro1
+  - czar0
+  - dimaxgl
+  - inotnako
+  - kukgini
+  - larsvliet
+  - vitiko
 - name: did-webs-resolver-maintainers
   maintainers:
   - peacekeeper
@@ -116,7 +109,9 @@ teams:
 - name: documentation-template-committers
   maintainers:
   - tkuhrt
-  members: []
+- name: electrodo-docs-maintainers
+  maintainers:
+  - ryjones
 - name: fablo-maintainers
   maintainers:
   - dzikowski
@@ -133,21 +128,19 @@ teams:
 - name: fabric-builder-k8s-maintainers
   maintainers:
   - jt-nti
-  members: []
 - name: fabric-channeled-add-ons-gen-committers
   maintainers:
   - LoniasGR
   - nkapsoulis
-  members: []
 - name: fabric-operations-console-maintainers
   maintainers:
-  - varadgit
   - dshuffma-ibm
+  - varadgit
   members:
-  - ptippett
+  - ckpaliwal
   - denyeart
   - ketulsha
-  - ckpaliwal
+  - ptippett
 - name: fabric-operator-committers
   maintainers:
   - jkneubuh
@@ -158,194 +151,193 @@ teams:
   maintainers:
   - tkuhrt
   members:
-  - shimos
   - satota2
+  - shimos
 - name: fabric-smart-client-committers
   maintainers:
   - adecaro
   - yacovm
   members:
-  - mbrandenburger
-  - mffrench
+  - HagarMeir
+  - KElkhiyaoui
+  - ale-linux
+  - alexandrosfilios
   - arner
   - davidkel
-  - HagarMeir
-  - ale-linux
-  - KElkhiyaoui
+  - mbrandenburger
+  - mffrench
   - sapthasurendran
-  - alexandrosfilios
 - name: fabric-token-java-sdk-maintainers
   maintainers:
   - smallestant
-  members: []
+  - adecaro
 - name: fabric-token-sdk-committers
   maintainers:
   - adecaro
   - yacovm
   members:
-  - mbrandenburger
-  - mffrench
+  - HagarMeir
+  - KElkhiyaoui
+  - ale-linux
+  - alexandrosfilios
   - arner
   - davidkel
-  - HagarMeir
-  - ale-linux
-  - KElkhiyaoui
+  - mbrandenburger
+  - mffrench
   - sapthasurendran
-  - alexandrosfilios
 - name: harmonia-committers
   maintainers:
   - eierina
   - gendal
   members:
-  - petermunnings
+  - ILoomans
+  - MarkOldfield
   - coeniebeyers
   - fowlerrr
-  - MarkOldfield
-  - r3domfox
   - mkrielza
-  - ILoomans
+  - petermunnings
+  - r3domfox
 - name: hlf-connector-maintainers
   maintainers:
   - arsulegai
   members:
-  - nithin-pankaj
   - adityajoshi12
   - nidhi-singh02
+  - nithin-pankaj
   - weihong-ou
+- name: hyperledger-community-management-tools-committers
+  maintainers:
+  - lehors
+  - tkuhrt
+  - vipinsun
 - name: hyperledger-contributors
   maintainers:
   - tkuhrt
   members:
-  - jwickers
+  - '3100'
+  - AmmonBurgi
+  - C0rWin
+  - Eldersonar
+  - GGabi
+  - JamesKEbert
+  - Jsyro
+  - KElkhiyaoui
+  - KeelaShatzkin
+  - LoniasGR
+  - MoritzKa
+  - NIKU-SINGH
+  - Pihu1998
+  - RafaelAPB
+  - RmbRT
+  - SherwoodMoore
+  - VRamakrishna
+  - WadeBarnes
+  - Yining-Hu
+  - Zzocker
+  - adecaro
+  - adlrocha
+  - aguel
+  - akareem89
+  - ale-linux
+  - alexandrosfilios
+  - alvaropicazo
+  - arsulegai
+  - awrichar
+  - bestbeforetoday
+  - bluele
+  - brioux
+  - bvavala
+  - ceilican
+  - choeppler
+  - cmickeyb
+  - danielksan81
+  - davidwboswell
+  - dcmiddle
+  - deepakkumardbd
+  - denyeart
+  - dhinakaran2705
+  - dileban
+  - domwoe
+  - douniamarbouh
+  - dshuffma-ibm
+  - ermyas
+  - etschelp
   - frank-bee
   - g2flyer
+  - gabriel-indik
+  - ghaemisr
+  - harisj-xlnx
+  - hritikgupta
+  - hs2361
+  - ianco
+  - itaru2622
+  - jagpreetsinghsasan
+  - jaredweinfurtner
+  - jimthematrix
+  - juraj-durech
+  - jwickers
+  - jyellick
+  - karthikamurthy
+  - kleash
+  - knagware9
+  - knarayan
+  - kushti
+  - l-wegner
+  - lamnd09
+  - lehors
+  - litong01
+  - lynnbendixsen
+  - maniankara
+  - manju956
+  - matejpavlovic
+  - matthewhall78
+  - mbrandenburger
+  - mffrench
+  - mrakhmilevich
+  - mtnieto
+  - nguyer
+  - nhoriguchi
+  - nickgaski
+  - nkapsoulis
+  - oskin1
+  - peterbroadhurst
+  - petermetz
+  - prakashngit
+  - ptippett
+  - ragalz
+  - raphaelvrosa
   - reflectivedevelopment
   - rybalko
-  - nhoriguchi
-  - cmickeyb
-  - knarayan
-  - siburu
-  - shimos
-  - adecaro
-  - seanyoung
-  - mbrandenburger
-  - swcurran
-  - varadgit
-  - bluele
-  - '3100'
-  - maniankara
-  - petermetz
-  - davidwboswell
-  - sichen1234
-  - ceilican
-  - ianco
-  - litong01
-  - domwoe
-  - kushti
-  - awrichar
-  - nguyer
-  - sebastianst
-  - C0rWin
-  - ermyas
-  - raphaelvrosa
-  - aguel
-  - vipinsun
-  - danielksan81
-  - kleash
-  - bestbeforetoday
-  - dcmiddle
-  - brioux
-  - jimthematrix
-  - vdamle
-  - Jsyro
-  - mffrench
-  - lehors
-  - peterbroadhurst
-  - adlrocha
-  - jyellick
-  - yacovm
-  - xermicus
-  - manju956
-  - ptippett
-  - lamnd09
-  - prakashngit
-  - WadeBarnes
-  - ghaemisr
-  - shorsher
-  - matejpavlovic
-  - RafaelAPB
-  - dileban
-  - sergefdrv
-  - RmbRT
-  - etschelp
-  - MoritzKa
-  - VRamakrishna
-  - LoniasGR
-  - dshuffma-ibm
-  - choeppler
-  - nickgaski
   - sandeepnRES
-  - Yining-Hu
-  - karthikamurthy
-  - denyeart
-  - mtnieto
+  - satota2
+  - seanyoung
+  - sebastianst
+  - sergefdrv
+  - shimos
+  - shorsher
+  - siburu
+  - sichen1234
   - sownak
-  - dhinakaran2705
-  - hritikgupta
-  - matthewhall78
-  - jaredweinfurtner
-  - knagware9
-  - mrakhmilevich
-  - vadiminshakov
-  - arsulegai
-  - oskin1
-  - ale-linux
-  - JamesKEbert
-  - wit-dan
-  - bvavala
-  - akareem89
-  - nkapsoulis
+  - suvajit-sarkar
+  - swcurran
   - udosson
   - usingtechnology
-  - SherwoodMoore
-  - l-wegner
-  - gabriel-indik
-  - GGabi
-  - Eldersonar
-  - Zzocker
-  - lynnbendixsen
-  - KElkhiyaoui
-  - Pihu1998
-  - weihong-ou
-  - hs2361
-  - suvajit-sarkar
-  - juraj-durech
-  - jagpreetsinghsasan
-  - deepakkumardbd
-  - satota2
-  - AmmonBurgi
-  - itaru2622
-  - douniamarbouh
-  - NIKU-SINGH
-  - alvaropicazo
-  - ragalz
-  - harisj-xlnx
-  - KeelaShatzkin
-  - alexandrosfilios
-- name: hyperledger-community-management-tools-committers
-  maintainers:
+  - vadiminshakov
+  - varadgit
+  - vdamle
   - vipinsun
-  - tkuhrt
-  - lehors
-  members: []
+  - weihong-ou
+  - wit-dan
+  - xermicus
+  - yacovm
 - name: lab-stewards
   maintainers:
   - tkuhrt
   members:
-  - vipinsun
-  - lehors
   - knagware9
+  - lehors
   - nidhi-singh02
+  - vipinsun
 - name: learning-tokens-maintainers
   maintainers:
   - TanjinAlam
@@ -354,171 +346,185 @@ teams:
 - name: mosaique-decentralized-workflows-committers
   maintainers:
   - dave-promulgare
-  members: []
 - name: open-enterprise-agent-admins
   maintainers:
   - bvoiturier
-  - yshyn-iohk
   - davidpoltorak-io
+  - yshyn-iohk
   members:
-  - mineme0110
   - atala-dev
+  - mineme0110
   - patlo-iog
 - name: open-enterprise-agent-committers
   maintainers:
   - antonbaliasnikov
   members:
   - BS-IO
-  - womfoo
-  - elribonazo
-  - FabioPinheiro
-  - milosh86
-  - bvoiturier
-  - curtis-h
+  - CryptoKnightIOG
   - EzequielPostan
+  - FabioPinheiro
+  - amagyar-iohk
+  - atala-dev
   - bsandmann
-  - shotexa
+  - bvoiturier
+  - cristianIOHK
+  - curtis-h
+  - davidpoltorak-io
   - dorultan
+  - elribonazo
+  - essbante-io
+  - goncalo-frade-iohk
   - lohanspies
   - milosbackonja
+  - milosh86
   - mineme0110
-  - CryptoKnightIOG
-  - goncalo-frade-iohk
-  - petevielhaber
   - mkbreuningIOHK
-  - amagyar-iohk
-  - yshyn-iohk
-  - essbante-io
   - patlo-iog
-  - davidpoltorak-io
-  - cristianIOHK
+  - petevielhaber
+  - shotexa
+  - womfoo
+  - yshyn-iohk
 - name: open-enterprise-agent-contributors
   maintainers:
   - antonbaliasnikov
   members:
   - BS-IO
-  - womfoo
-  - elribonazo
-  - hamada147
-  - FabioPinheiro
-  - milosh86
-  - bvoiturier
-  - curtis-h
+  - CryptoKnightIOG
   - EzequielPostan
+  - FabioPinheiro
+  - amagyar-iohk
+  - atala-dev
   - bsandmann
-  - shotexa
+  - bvoiturier
+  - cristianIOHK
+  - curtis-h
+  - davidpoltorak-io
   - dorultan
+  - elribonazo
+  - essbante-io
+  - goncalo-frade-iohk
+  - hamada147
   - lohanspies
   - milosbackonja
+  - milosh86
   - mineme0110
-  - atala-dev
-  - CryptoKnightIOG
-  - goncalo-frade-iohk
-  - petevielhaber
   - mkbreuningIOHK
-  - amagyar-iohk
-  - yshyn-iohk
-  - essbante-io
   - patlo-iog
-  - davidpoltorak-io
-  - cristianIOHK
+  - petevielhaber
+  - shotexa
   - todorkoleviohk
+  - womfoo
+  - yshyn-iohk
 - name: open-enterprise-agent-maintainers
   maintainers:
   - antonbaliasnikov
   - yshyn-iohk
   members:
+  - atala-dev
   - bsandmann
-  - patlo-iog
+  - bvoiturier
   - davidpoltorak-io
+  - mineme0110
+  - patlo-iog
 - name: organizational-agent-committers
   maintainers:
-  - swcurran
-  - domwoe
-  - tkuhrt
-  - WadeBarnes
   - DritonGoxhufi
+  - WadeBarnes
+  - domwoe
+  - swcurran
+  - tkuhrt
   members:
-  - frank-bee
   - Jsyro
-  - etschelp
   - MoritzKa
-  - matthewhall78
-  - wit-dan
+  - etschelp
+  - frank-bee
   - l-wegner
+  - matthewhall78
   - schlagtim
+  - wit-dan
 - name: orion-admins
   maintainers:
   - C0rWin
   members:
   - cendhu
-  - tock-ibm
   - gennadylaventman
+  - tock-ibm
 - name: orion-committers
   maintainers:
   - C0rWin
   members:
-  - liran-funaro
-  - cendhu
-  - tock-ibm
-  - gennadylaventman
-  - dany-moshkovich
   - MayRosenbaum
+  - cendhu
+  - dany-moshkovich
+  - gennadylaventman
+  - liran-funaro
+  - tock-ibm
 - name: orion-server-admins
   maintainers:
   - cendhu
   - tock-ibm
-  members: []
 - name: perun-admins
   maintainers:
   - choeppler
-  members: []
+  - tkuhrt
 - name: perun-committers
   maintainers:
   - choeppler
   members:
-  - sebastianst
+  - DragonDev1906
+  - NhoxxKienn
+  - RmbRT
+  - cryptphil
   - danielksan81
   - iljabvh
-  - DragonDev1906
-  - RmbRT
-  - tinnendo
   - manoranjith
-  - cryptphil
-  - NhoxxKienn
+  - sebastianst
   - sophia1ch
+  - tinnendo
+- name: perun
+  maintainers:
+  - tkuhrt
+  members:
+  - DragonDev1906
+  - NhoxxKienn
+  - RmbRT
+  - choeppler
+  - cryptphil
+  - danielksan81
+  - iljabvh
+  - manoranjith
+  - sebastianst
+  - sophia1ch
+  - tinnendo
 - name: private-data-objects-committers
   maintainers:
   - cmickeyb
   - tkuhrt
   members:
-  - g2flyer
-  - prakashngit
-  - bvavala
   - akareem89
+  - bvavala
+  - g2flyer
   - marcelamelara
+  - prakashngit
 - name: security-managers
   maintainers:
-  - ryjones
   - hartm
-  members: []
+  - ryjones
 - name: security-notices
   maintainers:
   - ryjones
   - tkuhrt
-  members: []
 - name: smartbft-maintainers
   maintainers:
   - yacovm
   members:
   - C0rWin
+  - HagarMeir
   - pfi79
   - tock-ibm
-  - HagarMeir
 - name: solang-playground-committers
   maintainers:
   - salaheldinsoliman
-  members: []
 - name: splice-maintainers
   maintainers:
   - waynecollier-da
@@ -527,28 +533,26 @@ teams:
 - name: tdidn-maintainers
   maintainers:
   - dinkar-jain
-  members: []
 - name: weaver-admins
   maintainers:
   - VRamakrishna
   - sandeepnRES
-  members: []
 - name: weaver-dlt-interoperability-committers
   maintainers:
   - VRamakrishna
   members:
-  - knarayan
+  - GGabi
   - SIKHAR405
-  - ghoshbishakh
-  - dileban
-  - sandeepnRES
   - Yining-Hu
   - dhinakaran2705
-  - GGabi
+  - dileban
+  - ghoshbishakh
+  - knarayan
+  - sandeepnRES
 - name: yui-committers
   maintainers:
-  - bluele
   - '3100'
+  - bluele
   members:
   - siburu
 repositories:
