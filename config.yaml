@@ -211,7 +211,6 @@ teams:
   - weihong-ou
 - name: hyperledger-community-management-tools-committers
   maintainers:
-  - lehors
   - tkuhrt
   - vipinsun
 - name: lab-stewards
@@ -219,7 +218,6 @@ teams:
   - tkuhrt
   members:
   - knagware9
-  - lehors
   - nidhi-singh02
   - vipinsun
 - name: learning-tokens-maintainers
