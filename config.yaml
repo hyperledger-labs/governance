@@ -52,9 +52,13 @@ teams:
   members:
   - Anusha-Padmanabhan
   - ArchanaArige
+  - SunnyAjin
+  - Udhayakumari
   - adityajoshi12
   - arigelas
+  - manishdas12
   - saundarya-saurabh
+  - vineeth2328
 - name: cardea-admins
   maintainers:
   - JamesKEbert
@@ -210,126 +214,6 @@ teams:
   - lehors
   - tkuhrt
   - vipinsun
-- name: hyperledger-contributors
-  maintainers:
-  - tkuhrt
-  members:
-  - '3100'
-  - AmmonBurgi
-  - C0rWin
-  - Eldersonar
-  - GGabi
-  - JamesKEbert
-  - Jsyro
-  - KElkhiyaoui
-  - KeelaShatzkin
-  - LoniasGR
-  - MoritzKa
-  - NIKU-SINGH
-  - Pihu1998
-  - RafaelAPB
-  - RmbRT
-  - SherwoodMoore
-  - VRamakrishna
-  - WadeBarnes
-  - Yining-Hu
-  - Zzocker
-  - adecaro
-  - adlrocha
-  - aguel
-  - akareem89
-  - ale-linux
-  - alexandrosfilios
-  - alvaropicazo
-  - arsulegai
-  - awrichar
-  - bestbeforetoday
-  - bluele
-  - brioux
-  - bvavala
-  - ceilican
-  - choeppler
-  - cmickeyb
-  - danielksan81
-  - davidwboswell
-  - dcmiddle
-  - deepakkumardbd
-  - denyeart
-  - dhinakaran2705
-  - dileban
-  - domwoe
-  - douniamarbouh
-  - dshuffma-ibm
-  - ermyas
-  - etschelp
-  - frank-bee
-  - g2flyer
-  - gabriel-indik
-  - ghaemisr
-  - harisj-xlnx
-  - hritikgupta
-  - hs2361
-  - ianco
-  - itaru2622
-  - jagpreetsinghsasan
-  - jaredweinfurtner
-  - jimthematrix
-  - juraj-durech
-  - jwickers
-  - jyellick
-  - karthikamurthy
-  - kleash
-  - knagware9
-  - knarayan
-  - kushti
-  - l-wegner
-  - lamnd09
-  - lehors
-  - litong01
-  - lynnbendixsen
-  - maniankara
-  - manju956
-  - matejpavlovic
-  - matthewhall78
-  - mbrandenburger
-  - mffrench
-  - mrakhmilevich
-  - mtnieto
-  - nguyer
-  - nhoriguchi
-  - nickgaski
-  - nkapsoulis
-  - oskin1
-  - peterbroadhurst
-  - petermetz
-  - prakashngit
-  - ptippett
-  - ragalz
-  - raphaelvrosa
-  - reflectivedevelopment
-  - rybalko
-  - sandeepnRES
-  - satota2
-  - seanyoung
-  - sebastianst
-  - sergefdrv
-  - shimos
-  - shorsher
-  - siburu
-  - sichen1234
-  - sownak
-  - suvajit-sarkar
-  - swcurran
-  - udosson
-  - usingtechnology
-  - vadiminshakov
-  - varadgit
-  - vdamle
-  - vipinsun
-  - weihong-ou
-  - wit-dan
-  - xermicus
-  - yacovm
 - name: lab-stewards
   maintainers:
   - tkuhrt
@@ -617,15 +501,6 @@ repositories:
     blockchain-carbon-accounting-committers: maintain
   visibility: public
 - name: blockchain-explorer
-  collaborators:
-    arigelas: maintain
-    SunnyAjin: maintain
-    Udhayakumari: maintain
-    Anusha-Padmanabhan: maintain
-    ArchanaArige: admin
-    vineeth2328: maintain
-    adityajoshi12: maintain
-    manishdas12: maintain
   teams:
     security-managers: read
     blockchain-explorer: maintain
@@ -768,9 +643,6 @@ repositories:
     security-managers: read
   visibility: public
 - name: fabric-opssc
-  collaborators:
-    shimos: maintain
-    satota2: maintain
   teams:
     fabric-opssc: maintain
     security-managers: read
@@ -840,10 +712,6 @@ repositories:
     open-enterprise-agent-maintainers: maintain
   visibility: public
 - name: orion-sdk-go
-  collaborators:
-    gennadylaventman: admin
-    MayRosenbaum: maintain
-    liran-funaro: maintain
   teams:
     orion-committers: maintain
     security-managers: read
@@ -851,10 +719,6 @@ repositories:
     orion-server-admins: admin
   visibility: public
 - name: orion-server
-  collaborators:
-    gennadylaventman: admin
-    MayRosenbaum: maintain
-    liran-funaro: maintain
   teams:
     orion-server-admins: admin
     orion-committers: maintain
