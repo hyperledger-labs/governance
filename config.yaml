@@ -234,7 +234,6 @@ teams:
   - bvoiturier
   - yshyn-iohk
   members:
-  - davidpoltorak-io
   - atala-dev
   - mineme0110
   - patlo-iog
@@ -252,7 +251,6 @@ teams:
   - bvoiturier
   - cristianIOHK
   - curtis-h
-  - davidpoltorak-io
   - dorultan
   - elribonazo
   - essbante-io
@@ -281,7 +279,6 @@ teams:
   - bvoiturier
   - cristianIOHK
   - curtis-h
-  - davidpoltorak-io
   - dorultan
   - elribonazo
   - essbante-io
@@ -306,7 +303,6 @@ teams:
   - atala-dev
   - bsandmann
   - bvoiturier
-  - davidpoltorak-io
   - mineme0110
   - patlo-iog
 - name: organizational-agent-committers
