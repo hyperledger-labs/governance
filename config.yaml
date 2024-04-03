@@ -145,6 +145,7 @@ teams:
   - denyeart
   - ketulsha
   - ptippett
+  - shoaebjindani
 - name: fabric-operator-committers
   maintainers:
   - jkneubuh
@@ -231,9 +232,9 @@ teams:
 - name: open-enterprise-agent-admins
   maintainers:
   - bvoiturier
-  - davidpoltorak-io
   - yshyn-iohk
   members:
+  - davidpoltorak-io
   - atala-dev
   - mineme0110
   - patlo-iog
