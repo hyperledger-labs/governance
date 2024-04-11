@@ -14,11 +14,6 @@ teams:
   members:
   - data-douser
   - monar24
-- name: aries-sdk-mendix-maintainers
-  maintainers:
-  - jorgefl0
-  - skullquake
-  - tkuhrt
 - name: bccb-maintainers
   maintainers:
   - RafaelAPB
@@ -473,11 +468,6 @@ repositories:
   teams:
     aries-agent-controller-maintainers: write
     security-managers: read
-  visibility: public
-- name: aries-sdk-mendix
-  teams:
-    security-managers: read
-    aries-sdk-mendix-maintainers: maintain
   visibility: public
 - name: bdls
   teams:
