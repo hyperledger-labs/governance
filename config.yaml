@@ -698,14 +698,6 @@ repositories:
     mosaique-decentralized-workflows-committers: maintain
     security-managers: read
   visibility: public
-- name: open-enterprise-agent
-  teams:
-    security-managers: read
-    open-enterprise-agent-admins: admin
-    open-enterprise-agent-committers: write
-    open-enterprise-agent-contributors: read
-    open-enterprise-agent-maintainers: maintain
-  visibility: public
 - name: orion-sdk-go
   teams:
     orion-committers: maintain
