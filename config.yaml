@@ -1,8 +1,8 @@
 teams:
-- name: agora-glass_pumpkin-maintainers
+- name: agora-glass-pumpkin-maintainers
   maintainers:
   - mikelodder7
-- name: agora_lab_admins
+- name: agora-lab-admins
   maintainers:
   - mikelodder7
 - name: aifaq-maintainers
@@ -443,25 +443,25 @@ repositories:
 - name: agora-glass_pumpkin
   teams:
     security-managers: read
-    agora-glass_pumpkin-maintainers: maintain
-    agora_lab_admins: admin
+    agora-glass-pumpkin-maintainers: maintain
+    agora-lab-admins: admin
   visibility: public
 - name: agora-key-share-proofs
   teams:
     security-managers: read
-    agora_lab_admins: admin
-    agora-glass_pumpkin-maintainers: maintain
+    agora-lab-admins: admin
+    agora-glass-pumpkin-maintainers: maintain
   visibility: public
 - name: agora-unknown_order
   teams:
     security-managers: read
-    agora-glass_pumpkin-maintainers: maintain
-    agora_lab_admins: admin
+    agora-glass-pumpkin-maintainers: maintain
+    agora-lab-admins: admin
   visibility: public
 - name: agora-verifiable-encryption
   teams:
-    agora-glass_pumpkin-maintainers: maintain
-    agora_lab_admins: admin
+    agora-glass-pumpkin-maintainers: maintain
+    agora-lab-admins: admin
     security-managers: read
   visibility: public
 - name: aifaq
