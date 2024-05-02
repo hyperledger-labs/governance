@@ -435,6 +435,12 @@ repositories:
     organizational-agent-committers: maintain
     security-managers: read
   visibility: public
+- name: agora-blsful
+  teams:
+    security-managers: read
+    agora-glass-pumpkin-maintainers: maintain
+    agora-lab-admins: admin
+  visibility: public
 - name: agora-glass_pumpkin
   teams:
     security-managers: read
