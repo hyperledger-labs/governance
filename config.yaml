@@ -213,6 +213,8 @@ teams:
   maintainers:
   - tkuhrt
   members:
+  - alvaropicazo
+  - mbrandenburger
   - nidhi-singh02
 - name: learning-tokens-maintainers
   maintainers:
