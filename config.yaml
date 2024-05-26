@@ -399,6 +399,7 @@ teams:
 - name: solang-playground-committers
   maintainers:
   - salaheldinsoliman
+  members:
   - tareknaser
 - name: splice-maintainers
   maintainers:
