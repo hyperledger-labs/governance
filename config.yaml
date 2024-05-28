@@ -221,6 +221,11 @@ teams:
   - TanjinAlam
   members:
   - Jmarvin-12
+- name: microfab-maintainers
+  maintainers:
+  - denyeart
+  members:
+  - celder628
 - name: mosaique-decentralized-workflows-committers
   maintainers:
   - dave-promulgare
@@ -689,6 +694,11 @@ repositories:
 - name: learning-tokens
   teams:
     learning-tokens-maintainers: maintain
+    security-managers: read
+  visibility: public
+- name: microfab
+  teams:
+    microfab-maintainers: maintain
     security-managers: read
   visibility: public
 - name: mosaique-decentralized-workflows
