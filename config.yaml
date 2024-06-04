@@ -556,12 +556,12 @@ repositories:
   visibility: public
 - name: fabric-operations-console
   teams:
-    fabric-operations-console-maintainers: maintain
+    fabric-operations-console-maintainers: admin
     security-managers: read
   visibility: public
 - name: fabric-operator
   teams:
-    fabric-operator-committers: maintain
+    fabric-operator-committers: admin
     security-managers: read
   visibility: public
 - name: fabric-opssc
@@ -571,18 +571,18 @@ repositories:
   visibility: public
 - name: fabric-smart-client
   teams:
-    fabric-smart-client-committers: maintain
+    fabric-smart-client-committers: admin
     security-managers: read
   visibility: public
 - name: Fabric-Token-Java-SDK
   teams:
-    fabric-token-java-sdk-maintainers: maintain
+    fabric-token-java-sdk-maintainers: admin
     security-managers: read
   visibility: public
 - name: fabric-token-sdk
   teams:
     security-managers: read
-    fabric-token-sdk-committers: maintain
+    fabric-token-sdk-committers: admin
   visibility: public
 - name: go-perun
   teams:
@@ -622,7 +622,7 @@ repositories:
   visibility: public
 - name: microfab
   teams:
-    microfab-maintainers: maintain
+    microfab-maintainers: admin
     security-managers: read
   visibility: public
 - name: mosaique-decentralized-workflows
