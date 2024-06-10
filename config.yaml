@@ -412,11 +412,11 @@ repositories:
     bdls-maintainers: maintain
     bdls-admin: admin
   visibility: public
-#- name: benchmarking-cross-chain-bridges
-#  teams:
-#    bccb-maintainers: maintain
-#    security-managers: read
-#  visibility: public
+- name: benchmarking-cross-chain-bridge-aggregators
+  teams:
+    bccb-maintainers: maintain
+    security-managers: read
+  visibility: public
 - name: blockchain-carbon-accounting
   teams:
     security-managers: read
