@@ -318,6 +318,17 @@ teams:
   maintainers:
   - ryjones
   - tkuhrt
+- name: signare-maintainers
+  maintainers:
+  - tkuhrt
+  members:
+  - nano-adhara
+  - chookly314
+  - Jserrano27
+  - gynura
+  - ArturoGarciaRegueiro
+  - mkrielza
+  - coeniebeyers
 - name: smartbft-maintainers
   maintainers:
   - yacovm
@@ -713,6 +724,9 @@ repositories:
     private-data-objects-committers: maintain
     security-managers: read
   visibility: public
+- name: signare
+  teams:
+    signare-maintainers: maintain
 - name: SmartBFT
   teams:
     smartbft-maintainers: admin
