@@ -10,10 +10,9 @@ teams:
   - gcapuzzi
 - name: aries-agent-controller-maintainers
   maintainers:
-  - tkuhrt
+  - monar24
   members:
   - data-douser
-  - monar24
 - name: bccb-maintainers
   maintainers:
   - RafaelAPB
@@ -149,9 +148,8 @@ teams:
   - shoaebjindani
 - name: fabric-opssc
   maintainers:
-  - tkuhrt
-  members:
   - satota2
+  members:
   - shimos
 - name: fabric-smart-client-committers
   maintainers:
@@ -208,7 +206,6 @@ teams:
 - name: hyperledger-community-management-tools-committers
   maintainers:
   - tkuhrt
-  - vipinsun
 - name: lab-stewards
   maintainers:
   - tkuhrt
@@ -236,7 +233,6 @@ teams:
   - WadeBarnes
   - domwoe
   - swcurran
-  - tkuhrt
   members:
   - Jsyro
   - MoritzKa
@@ -270,7 +266,6 @@ teams:
 - name: perun-admins
   maintainers:
   - choeppler
-  - tkuhrt
 - name: perun-committers
   maintainers:
   - choeppler
@@ -287,12 +282,11 @@ teams:
   - tinnendo
 - name: perun
   maintainers:
-  - tkuhrt
+  - choeppler
   members:
   - DragonDev1906
   - NhoxxKienn
   - RmbRT
-  - choeppler
   - cryptphil
   - danielksan81
   - iljabvh
@@ -303,7 +297,6 @@ teams:
 - name: private-data-objects-committers
   maintainers:
   - cmickeyb
-  - tkuhrt
   members:
   - akareem89
   - bvavala
@@ -320,7 +313,7 @@ teams:
   - tkuhrt
 - name: signare-maintainers
   maintainers:
-  - tkuhrt
+  - coeniebeyers
   members:
   - nano-adhara
   - chookly314
@@ -328,7 +321,6 @@ teams:
   - gynura
   - ArturoGarciaRegueiro
   - mkrielza
-  - coeniebeyers
 - name: smartbft-maintainers
   maintainers:
   - yacovm
