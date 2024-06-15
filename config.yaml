@@ -372,27 +372,27 @@ repositories:
   visibility: public
 - name: agora-blsful
   teams:
-    security-managers: read
     agora-glass-pumpkin-maintainers: maintain
     agora-lab-admins: admin
+    security-managers: read
   visibility: public
 - name: agora-glass_pumpkin
   teams:
-    security-managers: read
     agora-glass-pumpkin-maintainers: maintain
     agora-lab-admins: admin
+    security-managers: read
   visibility: public
 - name: agora-key-share-proofs
   teams:
-    security-managers: read
-    agora-lab-admins: admin
     agora-glass-pumpkin-maintainers: maintain
+    agora-lab-admins: admin
+    security-managers: read
   visibility: public
 - name: agora-unknown_order
   teams:
-    security-managers: read
     agora-glass-pumpkin-maintainers: maintain
     agora-lab-admins: admin
+    security-managers: read
   visibility: public
 - name: agora-verifiable-encryption
   teams:
@@ -402,8 +402,8 @@ repositories:
   visibility: public
 - name: aifaq
   teams:
-    security-managers: read
     aifaq-maintainers: maintain
+    security-managers: read
   visibility: public
 - name: aries-agent-controller
   teams:
@@ -412,9 +412,9 @@ repositories:
   visibility: public
 - name: bdls
   teams:
-    security-managers: read
-    bdls-maintainers: maintain
     bdls-admin: admin
+    bdls-maintainers: maintain
+    security-managers: read
   visibility: public
 - name: benchmarking-cross-chain-bridge-aggregators
   teams:
@@ -423,14 +423,14 @@ repositories:
   visibility: public
 - name: blockchain-carbon-accounting
   teams:
-    security-managers: read
     blockchain-carbon-accounting-committers: maintain
+    security-managers: read
   visibility: public
 - name: blockchain-explorer
   teams:
-    security-managers: read
     blockchain-explorer: maintain
     blockchain-explorer-admins: admin
+    security-managers: read
   visibility: public
 - name: cardea
   teams:
@@ -440,15 +440,15 @@ repositories:
   visibility: public
 - name: cardea-docker
   teams:
+    cardea-admins: maintain
     cardea-contributors: write
     security-managers: read
-    cardea-admins: maintain
   visibility: public
 - name: cardea-health-issuer-controller
   teams:
-    security-managers: read
-    cardea-contributors: write
     cardea-admins: maintain
+    cardea-contributors: write
+    security-managers: read
   visibility: public
 - name: cardea-health-issuer-ui
   teams:
@@ -459,32 +459,32 @@ repositories:
 - name: cardea-mobile-agent
   teams:
     cardea-admins: maintain
-    security-managers: read
     cardea-contributors: write
+    security-managers: read
   visibility: public
 - name: cardea-mobile-secondary-verifier-agent
   teams:
-    security-managers: read
-    cardea-contributors: write
     cardea-admins: maintain
+    cardea-contributors: write
+    security-managers: read
   visibility: public
 - name: cardea-primary-verifier-controller
   teams:
-    cardea-contributors: write
     cardea-admins: maintain
+    cardea-contributors: write
     security-managers: read
   visibility: public
 - name: cardea-primary-verifier-ui
   teams:
+    cardea-admins: maintain
     cardea-contributors: write
     security-managers: read
-    cardea-admins: maintain
   visibility: public
 - name: cardea-secondary-verifier-controller
   teams:
-    security-managers: read
-    cardea-contributors: write
     cardea-admins: maintain
+    cardea-contributors: write
+    security-managers: read
   visibility: public
 - name: cardea-secondary-verifier-ui
   teams:
@@ -501,33 +501,33 @@ repositories:
 - name: cc-tools
   teams:
     cc-tools-admin: admin
+    cc-tools-committers: write
     cc-tools-maintainers: maintain
     security-managers: read
-    cc-tools-committers: write
   visibility: public
 - name: cc-tools-demo
   teams:
+    cc-tools-admin: admin
+    cc-tools-committers: write
     cc-tools-maintainers: maintain
     security-managers: read
-    cc-tools-committers: write
-    cc-tools-admin: admin
   visibility: public
 - name: cc-tools-doc
   teams:
-    cc-tools-maintainers: maintain
-    cc-tools-committers: write
     cc-tools-admin: admin
+    cc-tools-committers: write
+    cc-tools-maintainers: maintain
     security-managers: read
   visibility: public
 - name: cckit
   teams:
-    security-managers: read
     cckit-committers: maintain
+    security-managers: read
   visibility: public
 - name: did-webs-resolver
   teams:
-    security-managers: read
     did-webs-resolver-maintainers: maintain
+    security-managers: read
   visibility: public
 - name: documentation-template
   teams:
@@ -550,13 +550,13 @@ repositories:
   visibility: public
 - name: fabric-builder-k8s
   teams:
-    security-managers: read
     fabric-builder-k8s-maintainers: admin
+    security-managers: read
   visibility: public
 - name: fabric-channeled-add-ons-gen
   teams:
-    security-managers: read
     fabric-channeled-add-ons-gen-committers: write
+    security-managers: read
   visibility: public
 - name: fabric-operations-console
   teams:
@@ -585,8 +585,8 @@ repositories:
   visibility: public
 - name: fabric-token-sdk
   teams:
-    security-managers: read
     fabric-token-sdk-committers: admin
+    security-managers: read
   visibility: public
 - name: go-perun
   teams:
@@ -606,8 +606,8 @@ repositories:
   visibility: public
 - name: hlf-connector
   teams:
-    security-managers: read
     hlf-connector-maintainers: maintain
+    security-managers: read
   visibility: public
 - name: hyperledger-community-management-tools
   teams:
@@ -637,9 +637,9 @@ repositories:
 - name: orion-sdk-go
   teams:
     orion-committers: maintain
-    security-managers: read
     orion-admins: admin
     orion-server-admins: admin
+    security-managers: read
   visibility: public
 - name: orion-server
   teams:
@@ -685,27 +685,27 @@ repositories:
   visibility: public
 - name: perun-eth-contracts
   teams:
-    security-managers: read
     perun-admins: admin
     perun-committers: write
+    security-managers: read
   visibility: public
 - name: perun-node
   teams:
     perun-committers: write
-    security-managers: read
     perun-admins: admin
+    security-managers: read
   visibility: public
 - name: perun-proposals
   teams:
     perun-committers: write
-    security-managers: read
     perun-admins: admin
+    security-managers: read
   visibility: public
 - name: perun-rs
   teams:
-    security-managers: read
     perun-admins: maintain
     perun-committers: write
+    security-managers: read
   visibility: public
 - name: pluggable-hcs
   teams:
@@ -719,10 +719,11 @@ repositories:
 - name: signare
   teams:
     signare-maintainers: maintain
+    security-managers: read
 - name: SmartBFT
   teams:
-    smartbft-maintainers: admin
     security-managers: read
+    smartbft-maintainers: admin
   visibility: public
 - name: solang-playground
   teams:
@@ -736,8 +737,8 @@ repositories:
   visibility: public
 - name: TDIDN
   teams:
-    tdidn-maintainers: maintain
     security-managers: read
+    tdidn-maintainers: maintain
   visibility: public
 - name: toc-eligibility-check
   teams:
@@ -756,8 +757,8 @@ repositories:
   visibility: public
 - name: yui-docs
   teams:
-    yui-committers: maintain
     security-managers: read
+    yui-committers: maintain
   visibility: public
 - name: yui-fabric-ibc
   teams:
