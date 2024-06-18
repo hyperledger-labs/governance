@@ -370,6 +370,11 @@ repositories:
     organizational-agent-committers: maintain
     security-managers: read
   visibility: public
+- name: agora-allosaurus-rs
+  teams:
+    agora-lab-admins: admin
+    security-managers: read
+  visibility: public
 - name: agora-blsful
   teams:
     agora-glass-pumpkin-maintainers: maintain
