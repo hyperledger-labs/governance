@@ -365,6 +365,16 @@ teams:
   - bluele
   members:
   - siburu
+- name: zeto-admins
+  maintainers:
+  - jimthematrix
+- name: zeto-committers
+  maintainers:
+  - jimthematrix
+  members:
+  - EnriqueL8
+  - awrichar
+  - peterbroadhurst
 repositories:
 - name: acapy-java-client
   teams:
@@ -780,4 +790,10 @@ repositories:
   teams:
     security-managers: read
     yui-committers: maintain
+  visibility: public
+- name: zeto
+  teams:
+    zeto-admins: admin
+    zeto-committers: write
+    security-managers: read
   visibility: public
