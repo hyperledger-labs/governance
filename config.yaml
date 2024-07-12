@@ -35,6 +35,7 @@ teams:
   members:
   - jwickers
   - rybalko
+  - Vadneyk
 - name: blockchain-explorer-admins
   maintainers:
   - arsulegai
