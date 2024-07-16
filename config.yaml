@@ -388,6 +388,11 @@ repositories:
     agora-lab-admins: admin
     security-managers: read
   visibility: public
+- name: agora-bbs
+  teams:
+    agora-lab-admins: admin
+    security-managers: read
+  visibility: public
 - name: agora-blsful
   teams:
     agora-glass-pumpkin-maintainers: maintain
