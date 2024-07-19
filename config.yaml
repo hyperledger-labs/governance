@@ -8,6 +8,7 @@ teams:
 - name: aifaq-maintainers
   maintainers:
   - gcapuzzi
+  members:
   - swaptr
 - name: aries-agent-controller-maintainers
   maintainers:
