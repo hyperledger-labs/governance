@@ -129,6 +129,17 @@ teams:
 - name: fabric-builder-k8s-maintainers
   maintainers:
   - jt-nti
+- name: fabric-debugger-admins
+  maintainers:
+  - arsulegai
+- name: fabric-debugger-committers
+  maintainers:
+  - arsulegai
+  members:
+  - kentydotcom
+  - technomad01
+  - urgetolearn
+  - varshapichandi30
 - name: fabric-channeled-add-ons-gen-committers
   maintainers:
   - LoniasGR
@@ -582,6 +593,12 @@ repositories:
 - name: fabric-channeled-add-ons-gen
   teams:
     fabric-channeled-add-ons-gen-committers: write
+    security-managers: read
+  visibility: public
+- name: fabric-debugger
+  teams:
+    fabric-debugger-admins: admin
+    fabric-debugger-committers: write
     security-managers: read
   visibility: public
 - name: fabric-operations-console
