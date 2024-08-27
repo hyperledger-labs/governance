@@ -220,6 +220,13 @@ teams:
 - name: hyperledger-community-management-tools-committers
   maintainers:
   - tkuhrt
+- name: jsonld-vc-bbs-go-maintainers
+  maintainers:
+  - denyeart
+  - mbrandenburger
+  members:
+  - iliecirciumaru
+  - pasquale95
 - name: lab-stewards
   maintainers:
   - tkuhrt
@@ -660,6 +667,10 @@ repositories:
   teams:
     lab-stewards: admin
     security-managers: read
+  visibility: public
+- name: jsonld-vc-bbs-go
+  teams:
+    jsonld-vc-bbs-go-maintainers: maintain
   visibility: public
 - name: learning-tokens
   teams:
