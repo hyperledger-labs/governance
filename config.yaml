@@ -671,6 +671,7 @@ repositories:
 - name: jsonld-vc-bbs-go
   teams:
     jsonld-vc-bbs-go-maintainers: maintain
+    security-managers: read
   visibility: public
 - name: learning-tokens
   teams:
