@@ -356,11 +356,18 @@ teams:
   - salaheldinsoliman
   members:
   - tareknaser
-- name: splice-maintainers
+- name: splice-admins
   maintainers:
   - waynecollier-da
   members:
   - isegall-da
+- name: splice-contributors
+  maintainers:
+  - waynecollier-da
+  members:
+  - moritzkiefer-da
+  - martinflorian-da
+  - ray-roestenburg-da
 - name: tdidn-maintainers
   maintainers:
   - dinkar-jain
@@ -787,7 +794,8 @@ repositories:
 - name: splice
   teams:
     security-managers: read
-    splice-maintainers: admin
+    splice-admins: admin
+    splice-contributors: maintain
   visibility: public
 - name: TDIDN
   teams:
