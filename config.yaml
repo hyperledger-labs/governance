@@ -14,7 +14,6 @@ teams:
   maintainers:
   - monar24
   members:
-  - data-douser
 - name: bccb-maintainers
   maintainers:
   - RafaelAPB
@@ -33,10 +32,7 @@ teams:
   maintainers:
   - brioux
   - knagware9
-  - sichen1234
   members:
-  - jwickers
-  - rybalko
   - VadneyK
 - name: blockchain-explorer-admins
   maintainers:
@@ -52,9 +48,7 @@ teams:
   - SunnyAjin
   - Udhayakumari
   - adityajoshi12
-  - arigelas
   - manishdas12
-  - saundarya-saurabh
   - vineethboppudi
 - name: cardea-admins
   maintainers:
@@ -64,11 +58,7 @@ teams:
   - JamesKEbert
   members:
   - AmmonBurgi
-  - Eldersonar
-  - KeelaShatzkin
   - dbluhm
-  - lynnbendixsen
-  - stevedavisbiz
 - name: cc-tools-admin
   maintainers:
   - samuelvenzi
@@ -78,31 +68,20 @@ teams:
   members:
   - AlineLermen
   - andremacedopv
-  - jamillepp
-  - lucas-campelo
   - mikaellafs
 - name: cc-tools-maintainers
   maintainers:
   - samuelvenzi
   members:
   - andremacedopv
-  - lucas-campelo
   - mikaellafs
 - name: cckit-committers
   maintainers:
-  - darkleaf
-  members:
-  - bogatyr285
-  - criro1
-  - czar0
-  - dimaxgl
-  - inotnako
   - kukgini
-  - larsvliet
+  members:
   - vitiko
 - name: did-webs-resolver-maintainers
   maintainers:
-  - peacekeeper
   - swcurran
   members:
   - 2byrds
@@ -117,7 +96,6 @@ teams:
   - dzikowski
   members:
   - Hejwo
-  - gzhk
 - name: fabric-ansible-collection-committers
   maintainers:
   - mbwhite
@@ -141,7 +119,6 @@ teams:
   - varshapichandi30
 - name: fabric-channeled-add-ons-gen-committers
   maintainers:
-  - LoniasGR
   - nkapsoulis
 - name: fabric-operations-console-maintainers
   maintainers:
@@ -152,7 +129,6 @@ teams:
   - denyeart
   - devanshpurani7
   - ketulsha
-  - ptippett
   - shoaebjindani
 - name: fabric-operator-committers
   maintainers:
@@ -178,7 +154,6 @@ teams:
   - davidkel
   - mbrandenburger
   - mffrench
-  - sapthasurendran
 - name: fabric-token-java-sdk-maintainers
   maintainers:
   - smallestant
@@ -196,18 +171,13 @@ teams:
   - davidkel
   - mbrandenburger
   - mffrench
-  - sapthasurendran
 - name: harmonia-committers
   maintainers:
   - eierina
-  - gendal
   members:
-  - ILoomans
-  - MarkOldfield
   - coeniebeyers
   - fowlerrr
   - mkrielza
-  - petermunnings
   - r3domfox
 - name: hlf-connector-maintainers
   maintainers:
@@ -216,7 +186,6 @@ teams:
   - adityajoshi12
   - nidhi-singh02
   - nithin-pankaj
-  - weihong-ou
 - name: hyperledger-community-management-tools-committers
   maintainers:
   - tkuhrt
@@ -239,88 +208,59 @@ teams:
   maintainers:
   - TanjinAlam
   members:
-  - Jmarvin-12
 - name: microfab-maintainers
   maintainers:
   - denyeart
   members:
   - celder628
-- name: mosaique-decentralized-workflows-committers
-  maintainers:
-  - dave-promulgare
 - name: organizational-agent-committers
   maintainers:
-  - DritonGoxhufi
   - WadeBarnes
-  - domwoe
   - swcurran
   members:
-  - Jsyro
-  - MoritzKa
   - etschelp
-  - frank-bee
-  - l-wegner
-  - matthewhall78
-  - schlagtim
-  - wit-dan
 - name: orion-admins
   maintainers:
   - C0rWin
   members:
-  - cendhu
-  - gennadylaventman
   - tock-ibm
 - name: orion-committers
   maintainers:
   - C0rWin
   members:
   - MayRosenbaum
-  - cendhu
-  - dany-moshkovich
-  - gennadylaventman
   - liran-funaro
   - tock-ibm
 - name: orion-server-admins
   maintainers:
-  - cendhu
   - tock-ibm
-- name: perun-admins
-  maintainers:
-  - choeppler
 - name: perun-committers
   maintainers:
-  - choeppler
-  members:
   - DragonDev1906
+  members:
   - NhoxxKienn
   - RmbRT
   - cryptphil
   - danielksan81
   - iljabvh
   - manoranjith
-  - sebastianst
-  - sophia1ch
   - tinnendo
 - name: perun
   maintainers:
-  - choeppler
-  members:
   - DragonDev1906
+  members:
   - NhoxxKienn
   - RmbRT
   - cryptphil
   - danielksan81
   - iljabvh
   - manoranjith
-  - sebastianst
-  - sophia1ch
   - tinnendo
 - name: private-data-objects-committers
   maintainers:
   - cmickeyb
   members:
   - IyNew-Letni
-  - akareem89
   - bvavala
   - g2flyer
   - marcelamelara
@@ -381,12 +321,7 @@ teams:
   - VRamakrishna
   members:
   - GGabi
-  - SIKHAR405
-  - Yining-Hu
-  - dhinakaran2705
-  - dileban
   - ghoshbishakh
-  - knarayan
   - sandeepnRES
 - name: yui-committers
   maintainers:
@@ -647,7 +582,6 @@ repositories:
   visibility: public
 - name: go-perun
   teams:
-    perun-admins: admin
     perun-committers: write
     security-managers: read
   visibility: public
@@ -691,11 +625,6 @@ repositories:
     microfab-maintainers: admin
     security-managers: read
   visibility: public
-- name: mosaique-decentralized-workflows
-  teams:
-    mosaique-decentralized-workflows-committers: maintain
-    security-managers: read
-  visibility: public
 - name: orion-sdk-go
   teams:
     orion-committers: maintain
@@ -718,54 +647,45 @@ repositories:
 - name: perun-cosmwasm-backend
   teams:
     perun-committers: maintain
-    perun-admins: admin
     security-managers: read
   visibility: public
 - name: perun-cosmwasm-contract
   teams:
-    perun-admins: admin
     perun-committers: maintain
     security-managers: read
   visibility: public
 - name: perun-credential-payment
   teams:
-    perun-admins: admin
     perun-committers: write
     security-managers: read
   visibility: public
 - name: perun-doc
   teams:
-    perun-admins: admin
     perun-committers: write
     security-managers: read
   visibility: public
 - name: perun-eth-backend
   teams:
-    perun-admins: admin
     perun-committers: write
     security-managers: read
   visibility: public
 - name: perun-eth-contracts
   teams:
-    perun-admins: admin
     perun-committers: write
     security-managers: read
   visibility: public
 - name: perun-node
   teams:
     perun-committers: write
-    perun-admins: admin
     security-managers: read
   visibility: public
 - name: perun-proposals
   teams:
     perun-committers: write
-    perun-admins: admin
     security-managers: read
   visibility: public
 - name: perun-rs
   teams:
-    perun-admins: maintain
     perun-committers: write
     security-managers: read
   visibility: public
