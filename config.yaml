@@ -10,16 +10,9 @@ teams:
   - gcapuzzi
   members:
   - swaptr
-- name: aries-agent-controller-maintainers
-  maintainers:
-  - monar24
-  members:
 - name: bccb-maintainers
   maintainers:
-  - RafaelAPB
-  members:
   - AndreAugusto11
-  - shankars99
 - name: bdls-admin
   maintainers:
   - ahmed82
@@ -30,7 +23,6 @@ teams:
   - sadityakumar9211
 - name: blockchain-carbon-accounting-committers
   maintainers:
-  - brioux
   - knagware9
   members:
   - VadneyK
@@ -43,22 +35,10 @@ teams:
   maintainers:
   - arsulegai
   members:
-  - Anusha-Padmanabhan
   - ArchanaArige
   - SunnyAjin
   - Udhayakumari
   - adityajoshi12
-  - manishdas12
-  - vineethboppudi
-- name: cardea-admins
-  maintainers:
-  - JamesKEbert
-- name: cardea-contributors
-  maintainers:
-  - JamesKEbert
-  members:
-  - AmmonBurgi
-  - dbluhm
 - name: cc-tools-admin
   maintainers:
   - samuelvenzi
@@ -66,19 +46,14 @@ teams:
   maintainers:
   - samuelvenzi
   members:
-  - AlineLermen
   - andremacedopv
-  - mikaellafs
 - name: cc-tools-maintainers
   maintainers:
   - samuelvenzi
   members:
   - andremacedopv
-  - mikaellafs
 - name: cckit-committers
   maintainers:
-  - kukgini
-  members:
   - vitiko
 - name: did-webs-resolver-maintainers
   maintainers:
@@ -113,17 +88,12 @@ teams:
   maintainers:
   - arsulegai
   members:
-  - kentydotcom
   - technomad01
   - urgetolearn
   - varshapichandi30
-- name: fabric-channeled-add-ons-gen-committers
-  maintainers:
-  - nkapsoulis
 - name: fabric-operations-console-maintainers
   maintainers:
   - dshuffma-ibm
-  - varadgit
   members:
   - ckpaliwal
   - denyeart
@@ -139,46 +109,35 @@ teams:
 - name: fabric-opssc
   maintainers:
   - satota2
-  members:
-  - shimos
 - name: fabric-smart-client-committers
   maintainers:
   - adecaro
   - yacovm
   members:
-  - HagarMeir
   - KElkhiyaoui
   - ale-linux
   - alexandrosfilios
   - arner
-  - davidkel
   - mbrandenburger
-  - mffrench
 - name: fabric-token-java-sdk-maintainers
   maintainers:
-  - smallestant
   - adecaro
 - name: fabric-token-sdk-committers
   maintainers:
   - adecaro
   - yacovm
   members:
-  - HagarMeir
   - KElkhiyaoui
   - ale-linux
   - alexandrosfilios
   - arner
-  - davidkel
   - mbrandenburger
-  - mffrench
 - name: harmonia-committers
   maintainers:
   - eierina
   members:
   - coeniebeyers
-  - fowlerrr
   - mkrielza
-  - r3domfox
 - name: hlf-connector-maintainers
   maintainers:
   - arsulegai
@@ -201,13 +160,11 @@ teams:
   - tkuhrt
   members:
   - alvaropicazo
-  - essbante-io
   - mbrandenburger
   - nidhi-singh02
 - name: learning-tokens-maintainers
   maintainers:
   - TanjinAlam
-  members:
 - name: microfab-maintainers
   maintainers:
   - denyeart
@@ -215,10 +172,7 @@ teams:
   - celder628
 - name: organizational-agent-committers
   maintainers:
-  - WadeBarnes
   - swcurran
-  members:
-  - etschelp
 - name: orion-admins
   maintainers:
   - C0rWin
@@ -228,8 +182,6 @@ teams:
   maintainers:
   - C0rWin
   members:
-  - MayRosenbaum
-  - liran-funaro
   - tock-ibm
 - name: orion-server-admins
   maintainers:
@@ -239,9 +191,7 @@ teams:
   - DragonDev1906
   members:
   - NhoxxKienn
-  - RmbRT
   - cryptphil
-  - danielksan81
   - iljabvh
   - manoranjith
   - tinnendo
@@ -250,9 +200,7 @@ teams:
   - DragonDev1906
   members:
   - NhoxxKienn
-  - RmbRT
   - cryptphil
-  - danielksan81
   - iljabvh
   - manoranjith
   - tinnendo
@@ -288,7 +236,6 @@ teams:
   - yacovm
   members:
   - C0rWin
-  - HagarMeir
   - pfi79
   - tock-ibm
 - name: solang-playground-committers
@@ -307,11 +254,7 @@ teams:
   members:
   - canton-network-da
   - moritzkiefer-da
-  - martinflorian-da
   - ray-roestenburg-da
-- name: tdidn-maintainers
-  maintainers:
-  - dinkar-jain
 - name: weaver-admins
   maintainers:
   - VRamakrishna
@@ -320,8 +263,6 @@ teams:
   maintainers:
   - VRamakrishna
   members:
-  - GGabi
-  - ghoshbishakh
   - sandeepnRES
 - name: yui-committers
   maintainers:
@@ -393,7 +334,6 @@ repositories:
   visibility: public
 - name: aries-agent-controller
   teams:
-    aries-agent-controller-maintainers: write
     security-managers: read
   visibility: public
 - name: bdls
@@ -420,68 +360,46 @@ repositories:
   visibility: public
 - name: cardea
   teams:
-    cardea-admins: maintain
-    cardea-contributors: write
     security-managers: read
   visibility: public
 - name: cardea-docker
   teams:
-    cardea-admins: maintain
-    cardea-contributors: write
     security-managers: read
   visibility: public
 - name: cardea-health-issuer-controller
   teams:
-    cardea-admins: maintain
-    cardea-contributors: write
     security-managers: read
   visibility: public
 - name: cardea-health-issuer-ui
   teams:
-    cardea-admins: maintain
-    cardea-contributors: write
     security-managers: read
   visibility: public
 - name: cardea-mobile-agent
   teams:
-    cardea-admins: maintain
-    cardea-contributors: write
     security-managers: read
   visibility: public
 - name: cardea-mobile-secondary-verifier-agent
   teams:
-    cardea-admins: maintain
-    cardea-contributors: write
     security-managers: read
   visibility: public
 - name: cardea-primary-verifier-controller
   teams:
-    cardea-admins: maintain
-    cardea-contributors: write
     security-managers: read
   visibility: public
 - name: cardea-primary-verifier-ui
   teams:
-    cardea-admins: maintain
-    cardea-contributors: write
     security-managers: read
   visibility: public
 - name: cardea-secondary-verifier-controller
   teams:
-    cardea-admins: maintain
-    cardea-contributors: write
     security-managers: read
   visibility: public
 - name: cardea-secondary-verifier-ui
   teams:
-    cardea-admins: maintain
-    cardea-contributors: write
     security-managers: read
   visibility: public
 - name: cardea.app
   teams:
-    cardea-admins: admin
-    cardea-contributors: write
     security-managers: read
   visibility: public
 - name: cc-tools
@@ -541,7 +459,6 @@ repositories:
   visibility: public
 - name: fabric-channeled-add-ons-gen
   teams:
-    fabric-channeled-add-ons-gen-committers: write
     security-managers: read
   visibility: public
 - name: fabric-debugger
@@ -719,11 +636,6 @@ repositories:
     splice-contributors: maintain
   visibility: public
 - name: TDIDN
-  teams:
-    security-managers: read
-    tdidn-maintainers: maintain
-  visibility: public
-- name: toc-eligibility-check
   teams:
     security-managers: read
   visibility: public
