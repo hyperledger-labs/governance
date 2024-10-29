@@ -12,6 +12,8 @@ teams:
   - swaptr
 - name: bccb-maintainers
   maintainers:
+  - tkuhrt
+  members:
   - AndreAugusto11
 - name: bdls-admin
   maintainers:
@@ -54,6 +56,8 @@ teams:
   - andremacedopv
 - name: cckit-committers
   maintainers:
+  - tkuhrt
+  members:
   - vitiko
 - name: did-webs-resolver-maintainers
   maintainers:
@@ -65,7 +69,7 @@ teams:
   - tkuhrt
 - name: electrodo-docs-maintainers
   maintainers:
-  - ryjones
+  - tkuhrt
 - name: fablo-maintainers
   maintainers:
   - dzikowski
