@@ -526,11 +526,6 @@ repositories:
     hyperledger-community-management-tools-committers: maintain
     security-managers: read
   visibility: public
-- name: hyperledger-labs.github.io
-  teams:
-    lab-stewards: admin
-    security-managers: read
-  visibility: public
 - name: jsonld-vc-bbs-go
   teams:
     jsonld-vc-bbs-go-maintainers: maintain
