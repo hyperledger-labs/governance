@@ -242,6 +242,7 @@ teams:
   - C0rWin
   - pfi79
   - tock-ibm
+  - HagarMeir
 - name: solang-playground-committers
   maintainers:
   - salaheldinsoliman
