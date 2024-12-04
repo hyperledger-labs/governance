@@ -38,16 +38,22 @@ teams:
 - name: cc-tools-admin
   maintainers:
   - samuelvenzi
+  members:
+  - goledger
 - name: cc-tools-committers
   maintainers:
   - samuelvenzi
   members:
   - andremacedopv
+  - jamillepp
+  - AlineLermen
 - name: cc-tools-maintainers
   maintainers:
   - samuelvenzi
   members:
   - andremacedopv
+  - lucas-campelo
+  - mikaellafs
 - name: cckit-committers
   maintainers:
   - tkuhrt
