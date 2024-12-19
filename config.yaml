@@ -192,22 +192,26 @@ teams:
   - tock-ibm
 - name: perun-committers
   maintainers:
+  - iljabvh
   - DragonDev1906
+  - tinnendo
   members:
+  - RmbRT
   - NhoxxKienn
   - cryptphil
-  - iljabvh
-  - manoranjith
-  - tinnendo
+  - ravi0131
+  - sophia1ch
 - name: perun
   maintainers:
+  - iljabvh
   - DragonDev1906
+  - tinnendo
   members:
+  - RmbRT
   - NhoxxKienn
   - cryptphil
-  - iljabvh
-  - manoranjith
-  - tinnendo
+  - ravi0131
+  - sophia1ch
 - name: private-data-objects-committers
   maintainers:
   - cmickeyb
