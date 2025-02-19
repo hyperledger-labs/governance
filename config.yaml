@@ -600,6 +600,12 @@ repositories:
     splice-admins: admin
     splice-contributors: maintain
   visibility: public
+- name: splice-runner-container-hooks
+  teams:
+    security-managers: read
+    splice-admins: admin
+    splice-contributors: maintain
+  visibility: public
 - name: splice-shared-gha
   teams:
     security-managers: read
