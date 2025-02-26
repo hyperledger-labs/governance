@@ -32,8 +32,6 @@ teams:
   - arsulegai
   members:
   - ArchanaArige
-  - SunnyAjin
-  - Udhayakumari
   - adityajoshi12
 - name: cc-tools-admin
   maintainers:
@@ -45,7 +43,6 @@ teams:
   - samuelvenzi
   members:
   - andremacedopv
-  - jamillepp
   - AlineLermen
 - name: cc-tools-maintainers
   maintainers:
