@@ -67,11 +67,17 @@ teams:
 - name: electrodo-docs-maintainers
   maintainers:
   - tkuhrt
+- name: fablo-admins
+  maintainers:
+  - dzikowski
+  members:
+  - Hejwo
 - name: fablo-maintainers
   maintainers:
   - dzikowski
   members:
   - Hejwo
+  - umegbewe
 - name: fabric-ansible-collection-committers
   maintainers:
   - mbwhite
@@ -417,7 +423,8 @@ repositories:
   visibility: public
 - name: fablo
   teams:
-    fablo-maintainers: admin
+    fablo-admins: admin
+    fablo-maintainers: maintain
     security-managers: read
   visibility: public
 - name: fabric-ansible-collection
