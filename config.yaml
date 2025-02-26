@@ -118,10 +118,13 @@ teams:
   - adecaro
   - yacovm
   members:
+  - AkramBitar
   - KElkhiyaoui
+  - SaidAltury-ibm
   - ale-linux
   - alexandrosfilios
   - arner
+  - gengur
   - mbrandenburger
 - name: fabric-token-java-sdk-maintainers
   maintainers:
@@ -131,10 +134,13 @@ teams:
   - adecaro
   - yacovm
   members:
+  - AkramBitar
   - KElkhiyaoui
+  - SaidAltury-ibm
   - ale-linux
   - alexandrosfilios
   - arner
+  - gengur
   - mbrandenburger
 - name: harmonia-committers
   maintainers:
