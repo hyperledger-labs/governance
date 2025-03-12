@@ -299,6 +299,12 @@ teams:
   - bluele
   members:
   - siburu
+- name: yui-triage
+  maintainers:
+  - bluele
+  members:
+  - abicky
+  - dai1975
 - name: zeto-admins
   maintainers:
   - jimthematrix
@@ -661,11 +667,13 @@ repositories:
   teams:
     security-managers: read
     yui-committers: maintain
+    yui-triage: triage
   visibility: public
 - name: yui-relayer
   teams:
     security-managers: read
     yui-committers: maintain
+    yui-triage: triage
   visibility: public
 - name: zeto
   teams:
