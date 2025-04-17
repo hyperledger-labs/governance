@@ -102,11 +102,11 @@ teams:
   maintainers:
   - dshuffma-ibm
   members:
-  - ckpaliwal
   - denyeart
-  - devanshpurani7
   - ketulsha
+  - MuthuSundaravadivel
   - shoaebjindani
+  - Thomas-Leung
 - name: fabric-operator-committers
   maintainers:
   - denyeart
