@@ -88,6 +88,12 @@ teams:
 - name: fabric-builder-k8s-maintainers
   maintainers:
   - jt-nti
+- name: fabric-chaincode-builder-maintainers
+  maintainers:
+  - Thomas-Leung
+  members:
+  - shoaebjindani
+  - MuthuSundaravadivel
 - name: fabric-debugger-admins
   maintainers:
   - arsulegai
