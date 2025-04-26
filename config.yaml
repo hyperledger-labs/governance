@@ -462,6 +462,11 @@ repositories:
     fabric-builder-k8s-maintainers: admin
     security-managers: read
   visibility: public
+- name: fabric-chaincode-builder
+  teams:
+    fabric-chaincode-builder-maintainers: maintain
+    security-managers: read
+  visibility: public
 - name: fabric-channeled-add-ons-gen
   teams:
     security-managers: read
