@@ -285,14 +285,21 @@ teams:
   - waynecollier-da
   members:
   - isegall-da
+  - martinflorian-da
+  - moritzkiefer-da
+  - ray-roestenburg-da
 - name: splice-contributors
   maintainers:
   - waynecollier-da
   members:
   - canton-network-da
-  - martinflorian-da
-  - moritzkiefer-da
-  - ray-roestenburg-da
+  - meiersa-da
+  - rautenrieth-da
+  - stephencompall-DA
+  - nicu-da
+  - fayi-da
+  - OriolMunoz-da
+  - julientinguely-da
 - name: weaver-admins
   maintainers:
   - VRamakrishna
