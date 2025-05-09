@@ -288,11 +288,11 @@ teams:
   - martinflorian-da
   - moritzkiefer-da
   - ray-roestenburg-da
+  - canton-network-da
 - name: splice-contributors
   maintainers:
   - waynecollier-da
   members:
-  - canton-network-da
   - meiersi-da
   - rautenrieth-da
   - stephencompall-DA
