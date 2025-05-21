@@ -141,6 +141,7 @@ teams:
   - gengur
   - mbrandenburger
   - ramym1
+  - zodik
 - name: fabric-token-java-sdk-maintainers
   maintainers:
   - adecaro
@@ -164,6 +165,7 @@ teams:
   - mbrandenburger
   - ramym1
   - sreenidhidrIBM
+  - zodik
 - name: harmonia-committers
   maintainers:
   - eierina
