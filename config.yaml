@@ -199,6 +199,8 @@ teams:
 - name: learning-tokens-maintainers
   maintainers:
   - TanjinAlam
+  members:
+  - noemi128
 - name: microfab-maintainers
   maintainers:
   - denyeart
