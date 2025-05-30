@@ -302,13 +302,13 @@ teams:
   - julientinguely-da
 - name: splice-wallet-kernel-admins
   maintainers:
-  - phol-da
+  - isegall-da
   members:
   - mjuchli-da
-  - isegall-da
+  - phol-da
 - name: splice-wallet-kernel-contributors
   maintainers:
-  - phol-da
+  - isegall-da
   members:
   - alexmatson-da
   - rukmini-basu-da
