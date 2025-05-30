@@ -304,6 +304,19 @@ teams:
   - fayi-da
   - OriolMunoz-da
   - julientinguely-da
+- name: splice-wallet-kernel-admins
+  maintainers:
+  - isegall-da
+  members:
+  - mjuchli-da
+  - phol-da
+- name: splice-wallet-kernel-contributors
+  maintainers:
+  - isegall-da
+  members:
+  - alexmatson-da
+  - rukmini-basu-da
+  - alexgraham-da
 - name: weaver-admins
   maintainers:
   - VRamakrishna
@@ -662,6 +675,12 @@ repositories:
     security-managers: read
     splice-admins: admin
     splice-contributors: maintain
+  visibility: public
+- name: splice-wallet-kernel
+  teams:
+    security-managers: read
+    splice-wallet-kernel-admins: admin
+    splice-wallet-kernel-contributors: maintain
   visibility: public
 - name: TDIDN
   teams:
