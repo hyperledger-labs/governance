@@ -310,6 +310,7 @@ teams:
   members:
   - mjuchli-da
   - PHOL-DA
+  - daravep
 - name: splice-wallet-kernel-contributors
   maintainers:
   - isegall-da
