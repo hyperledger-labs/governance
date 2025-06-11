@@ -313,7 +313,7 @@ teams:
   - daravep
 - name: splice-wallet-kernel-contributors
   maintainers:
-  - isegall-da
+  - PHOL-DA
   members:
   - alexmatson-da
   - rukmini-basu-da
