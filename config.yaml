@@ -279,11 +279,6 @@ teams:
   - pfi79
   - tock-ibm
   - HagarMeir
-- name: solang-playground-committers
-  maintainers:
-  - salaheldinsoliman
-  members:
-  - tareknaser
 - name: splice-admins
   maintainers:
   - waynecollier-da
@@ -654,11 +649,6 @@ repositories:
   teams:
     security-managers: read
     smartbft-maintainers: admin
-  visibility: public
-- name: solang-playground
-  teams:
-    security-managers: read
-    solang-playground-committers: maintain
   visibility: public
 - name: splice
   teams:
