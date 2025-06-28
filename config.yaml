@@ -137,11 +137,7 @@ teams:
   - arner
   - barvhaim
   - drucker-nir
-  - elli-androulaki
-  - gengur
   - mbrandenburger
-  - ramym1
-  - zodic
 - name: fabric-token-java-sdk-maintainers
   maintainers:
   - adecaro
@@ -160,12 +156,8 @@ teams:
   - arner
   - barvhaim
   - drucker-nir
-  - elli-androulaki
-  - gengur
   - mbrandenburger
-  - ramym1
   - sreenidhidrIBM
-  - zodic
 - name: harmonia-committers
   maintainers:
   - eierina
