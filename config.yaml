@@ -201,6 +201,16 @@ teams:
   - TanjinAlam
   members:
   - noemi128
+  - AlfonsoGovela 
+- name: learning-tokens-mentees
+  maintainers:
+  - noemi128
+  members:
+  - Ankita0112
+  - AviraL0013
+  - HariomDhage
+  - Vaibhav701161
+  - harsh-a-parihar
 - name: microfab-maintainers
   maintainers:
   - denyeart
@@ -561,6 +571,7 @@ repositories:
 - name: learning-tokens
   teams:
     learning-tokens-maintainers: maintain
+    learning-tokens-mentees: write
     security-managers: read
   visibility: public
 - name: microfab
