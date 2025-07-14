@@ -137,6 +137,7 @@ teams:
   - arner
   - barvhaim
   - drucker-nir
+  - kushnireyal
   - mbrandenburger
 - name: fabric-token-java-sdk-maintainers
   maintainers:
@@ -156,6 +157,7 @@ teams:
   - arner
   - barvhaim
   - drucker-nir
+  - kushnireyal
   - mbrandenburger
   - sreenidhidrIBM
 - name: harmonia-committers
