@@ -315,11 +315,12 @@ teams:
   maintainers:
   - PHOL-DA
   members:
-  - alexmatson-da
-  - rukmini-basu-da
   - alexgraham-da
+  - alexmatson-da
+  - davidrichards-da
   - matteolimberto-da
   - pawelstepien-da
+  - rukmini-basu-da
 - name: weaver-admins
   maintainers:
   - VRamakrishna
