@@ -139,6 +139,7 @@ teams:
   - drucker-nir
   - kushnireyal
   - mbrandenburger
+  - omri-so
 - name: fabric-token-java-sdk-maintainers
   maintainers:
   - adecaro
@@ -159,6 +160,7 @@ teams:
   - drucker-nir
   - kushnireyal
   - mbrandenburger
+  - omri-so
   - sreenidhidrIBM
 - name: harmonia-committers
   maintainers:
