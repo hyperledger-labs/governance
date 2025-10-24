@@ -385,7 +385,7 @@ repositories:
   visibility: public
 - name: bdls
   teams:
-    bdls-admin: admin
+    bdls-admin: maintain
     bdls-maintainers: maintain
     security-managers: read
   visibility: public
@@ -402,7 +402,7 @@ repositories:
 - name: blockchain-explorer
   teams:
     blockchain-explorer: maintain
-    blockchain-explorer-admins: admin
+    blockchain-explorer-admins: maintain
     security-managers: read
   visibility: public
 - name: cardea
@@ -451,21 +451,21 @@ repositories:
   visibility: public
 - name: cc-tools
   teams:
-    cc-tools-admin: admin
+    cc-tools-admin: maintain
     cc-tools-committers: write
     cc-tools-maintainers: maintain
     security-managers: read
   visibility: public
 - name: cc-tools-demo
   teams:
-    cc-tools-admin: admin
+    cc-tools-admin: maintain
     cc-tools-committers: write
     cc-tools-maintainers: maintain
     security-managers: read
   visibility: public
 - name: cc-tools-doc
   teams:
-    cc-tools-admin: admin
+    cc-tools-admin: maintain
     cc-tools-committers: write
     cc-tools-maintainers: maintain
     security-managers: read
@@ -497,7 +497,7 @@ repositories:
   visibility: public
 - name: fabric-ansible-collection
   teams:
-    fabric-ansible-collection-committers: admin
+    fabric-ansible-collection-committers: maintain
     security-managers: read
   visibility: public
 - name: fabric-builder-k8s
@@ -516,13 +516,13 @@ repositories:
   visibility: public
 - name: fabric-debugger
   teams:
-    fabric-debugger-admins: admin
+    fabric-debugger-admins: maintain
     fabric-debugger-committers: write
     security-managers: read
   visibility: public
 - name: fabric-operations-console
   teams:
-    fabric-operations-console-maintainers: admin
+    fabric-operations-console-maintainers: maintain
     security-managers: read
   visibility: public
 - name: fabric-operator
@@ -538,11 +538,6 @@ repositories:
 - name: fabric-smart-client
   teams:
     fabric-smart-client-committers: admin
-    security-managers: read
-  visibility: public
-- name: Fabric-Token-Java-SDK
-  teams:
-    fabric-token-java-sdk-maintainers: admin
     security-managers: read
   visibility: public
 - name: fabric-token-sdk
@@ -588,21 +583,21 @@ repositories:
   visibility: public
 - name: microfab
   teams:
-    microfab-maintainers: admin
+    microfab-maintainers: maintain
     security-managers: read
   visibility: public
 - name: orion-sdk-go
   teams:
     orion-committers: maintain
-    orion-admins: admin
-    orion-server-admins: admin
+    orion-admins: maintain
+    orion-server-admins: maintain
     security-managers: read
   visibility: public
 - name: orion-server
   teams:
-    orion-server-admins: admin
+    orion-server-admins: maintain
     orion-committers: maintain
-    orion-admins: admin
+    orion-admins: maintain
     security-managers: read
   visibility: public
 - name: pdo-contracts
@@ -671,30 +666,30 @@ repositories:
 - name: SmartBFT
   teams:
     security-managers: read
-    smartbft-maintainers: admin
+    smartbft-maintainers: maintain
   visibility: public
 - name: splice
   teams:
     security-managers: read
-    splice-admins: admin
+    splice-admins: maintain
     splice-contributors: maintain
   visibility: public
 - name: splice-runner-container-hooks
   teams:
     security-managers: read
-    splice-admins: admin
+    splice-admins: maintain
     splice-contributors: maintain
   visibility: public
 - name: splice-shared-gha
   teams:
     security-managers: read
-    splice-admins: admin
+    splice-admins: maintain
     splice-contributors: maintain
   visibility: public
 - name: splice-wallet-kernel
   teams:
     security-managers: read
-    splice-wallet-kernel-admins: admin
+    splice-wallet-kernel-admins: maintain
     splice-wallet-kernel-contributors: maintain
   visibility: public
 - name: TDIDN
@@ -705,7 +700,7 @@ repositories:
   teams:
     security-managers: read
     weaver-dlt-interoperability-committers: maintain
-    weaver-admins: admin
+    weaver-admins: maintain
   visibility: public
 - name: yui-corda-ibc
   teams:
