@@ -671,19 +671,19 @@ repositories:
 - name: splice
   teams:
     security-managers: read
-    splice-admins: maintain
+    splice-admins: admin
     splice-contributors: maintain
   visibility: public
 - name: splice-runner-container-hooks
   teams:
     security-managers: read
-    splice-admins: maintain
+    splice-admins: admin
     splice-contributors: maintain
   visibility: public
 - name: splice-shared-gha
   teams:
     security-managers: read
-    splice-admins: maintain
+    splice-admins: admin
     splice-contributors: maintain
   visibility: public
 - name: splice-wallet-kernel
