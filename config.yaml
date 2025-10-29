@@ -355,17 +355,6 @@ teams:
   members:
   - abicky
   - dai1975
-- name: zeto-admins
-  maintainers:
-  - jimthematrix
-- name: zeto-committers
-  maintainers:
-  - jimthematrix
-  members:
-  - EnriqueL8
-  - awrichar
-  - peterbroadhurst
-  - Chengxuan
 repositories:
 - name: acapy-java-client
   teams:
@@ -726,10 +715,4 @@ repositories:
     security-managers: read
     yui-committers: maintain
     yui-triage: triage
-  visibility: public
-- name: zeto
-  teams:
-    zeto-admins: admin
-    zeto-committers: write
-    security-managers: read
   visibility: public
