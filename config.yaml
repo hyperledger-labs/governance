@@ -677,7 +677,7 @@ repositories:
 - name: splice-wallet-kernel
   teams:
     security-managers: read
-    splice-wallet-kernel-admins: maintain
+    splice-wallet-kernel-admins: admin
     splice-wallet-kernel-contributors: maintain
   visibility: public
 - name: TDIDN
