@@ -313,6 +313,7 @@ teams:
   - mblaze-da
   - dfordivam
   - jose-velasco-ieu
+  - jagathweerasinghe-da
 - name: splice-wallet-kernel-admins
   maintainers:
   - isegall-da
