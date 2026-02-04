@@ -56,11 +56,6 @@ teams:
   - tkuhrt
   members:
   - vitiko
-- name: did-webs-resolver-maintainers
-  maintainers:
-  - swcurran
-  members:
-  - 2byrds
 - name: documentation-template-committers
   maintainers:
   - tkuhrt
@@ -88,12 +83,6 @@ teams:
 - name: fabric-builder-k8s-maintainers
   maintainers:
   - jt-nti
-- name: fabric-chaincode-builder-maintainers
-  maintainers:
-  - Thomas-Leung
-  members:
-  - shoaebjindani
-  - MuthuSundaravadivel
 - name: fabric-debugger-admins
   maintainers:
   - arsulegai
@@ -119,9 +108,6 @@ teams:
   members:
   - asararatnakar
   - shoaebjindani
-- name: fabric-opssc
-  maintainers:
-  - satota2
 - name: fabric-smart-client-committers
   maintainers:
   - adecaro
@@ -180,13 +166,6 @@ teams:
 - name: hyperledger-community-management-tools-committers
   maintainers:
   - tkuhrt
-- name: jsonld-vc-bbs-go-maintainers
-  maintainers:
-  - denyeart
-  - mbrandenburger
-  members:
-  - iliecirciumaru
-  - pasquale95
 - name: lab-stewards
   maintainers:
   - tkuhrt
@@ -218,19 +197,6 @@ teams:
 - name: organizational-agent-committers
   maintainers:
   - swcurran
-- name: orion-admins
-  maintainers:
-  - C0rWin
-  members:
-  - tock-ibm
-- name: orion-committers
-  maintainers:
-  - C0rWin
-  members:
-  - tock-ibm
-- name: orion-server-admins
-  maintainers:
-  - tock-ibm
 - name: perun-committers
   maintainers:
   - iljabvh
@@ -270,16 +236,6 @@ teams:
   maintainers:
   - ryjones
   - tkuhrt
-- name: signare-maintainers
-  maintainers:
-  - coeniebeyers
-  members:
-  - nano-adhara
-  - chookly314
-  - Jserrano27
-  - gynura
-  - ArturoGarciaRegueiro
-  - mkrielza
 - name: smartbft-maintainers
   maintainers:
   - yacovm
@@ -344,15 +300,6 @@ teams:
   - sammy-da
   - jonathan-klein-da
   - jaspervdj-da
-- name: weaver-admins
-  maintainers:
-  - VRamakrishna
-  - sandeepnRES
-- name: weaver-dlt-interoperability-committers
-  maintainers:
-  - VRamakrishna
-  members:
-  - sandeepnRES
 - name: yui-committers
   maintainers:
   - '3100'
@@ -472,11 +419,6 @@ repositories:
     cckit-committers: maintain
     security-managers: read
   visibility: public
-- name: did-webs-resolver
-  teams:
-    did-webs-resolver-maintainers: maintain
-    security-managers: read
-  visibility: public
 - name: documentation-template
   teams:
     documentation-template-committers: maintain
@@ -502,11 +444,6 @@ repositories:
     fabric-builder-k8s-maintainers: admin
     security-managers: read
   visibility: public
-- name: fabric-chaincode-builder
-  teams:
-    fabric-chaincode-builder-maintainers: maintain
-    security-managers: read
-  visibility: public
 - name: fabric-channeled-add-ons-gen
   teams:
     security-managers: read
@@ -525,11 +462,6 @@ repositories:
 - name: fabric-operator
   teams:
     fabric-operator-committers: admin
-    security-managers: read
-  visibility: public
-- name: fabric-opssc
-  teams:
-    fabric-opssc: maintain
     security-managers: read
   visibility: public
 - name: fabric-smart-client
@@ -567,11 +499,6 @@ repositories:
     hyperledger-community-management-tools-committers: maintain
     security-managers: read
   visibility: public
-- name: jsonld-vc-bbs-go
-  teams:
-    jsonld-vc-bbs-go-maintainers: maintain
-    security-managers: read
-  visibility: public
 - name: learning-tokens
   teams:
     learning-tokens-maintainers: maintain
@@ -581,20 +508,6 @@ repositories:
 - name: microfab
   teams:
     microfab-maintainers: maintain
-    security-managers: read
-  visibility: public
-- name: orion-sdk-go
-  teams:
-    orion-committers: maintain
-    orion-admins: maintain
-    orion-server-admins: maintain
-    security-managers: read
-  visibility: public
-- name: orion-server
-  teams:
-    orion-server-admins: maintain
-    orion-committers: maintain
-    orion-admins: maintain
     security-managers: read
   visibility: public
 - name: pdo-contracts
@@ -656,10 +569,6 @@ repositories:
     private-data-objects-committers: maintain
     security-managers: read
   visibility: public
-- name: signare
-  teams:
-    signare-maintainers: maintain
-    security-managers: read
 - name: SmartBFT
   teams:
     security-managers: read
@@ -692,12 +601,6 @@ repositories:
 - name: TDIDN
   teams:
     security-managers: read
-  visibility: public
-- name: weaver-dlt-interoperability
-  teams:
-    security-managers: read
-    weaver-dlt-interoperability-committers: maintain
-    weaver-admins: maintain
   visibility: public
 - name: yui-corda-ibc
   teams:
