@@ -38,11 +38,6 @@ teams:
   - andremacedopv
   - lucas-campelo
   - mikaellafs
-- name: cckit-committers
-  maintainers:
-  - tkuhrt
-  members:
-  - vitiko
 - name: documentation-template-committers
   maintainers:
   - tkuhrt
@@ -137,12 +132,6 @@ teams:
   - omri-so
   - SaidAltury-ibm
   - sreenidhidrIBM
-- name: harmonia-committers
-  maintainers:
-  - eierina
-  members:
-  - coeniebeyers
-  - mkrielza
 - name: hlf-connector-maintainers
   maintainers:
   - arsulegai
@@ -386,11 +375,6 @@ repositories:
     cc-tools-maintainers: maintain
     security-managers: read
   visibility: public
-- name: cckit
-  teams:
-    cckit-committers: maintain
-    security-managers: read
-  visibility: public
 - name: documentation-template
   teams:
     documentation-template-committers: maintain
@@ -454,11 +438,6 @@ repositories:
 - name: governance
   teams:
     lab-stewards: maintain
-    security-managers: read
-  visibility: public
-- name: harmonia
-  teams:
-    harmonia-committers: maintain
     security-managers: read
   visibility: public
 - name: hlf-connector
