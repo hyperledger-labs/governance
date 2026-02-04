@@ -9,19 +9,6 @@ teams:
   - tkuhrt
   members:
   - AndreAugusto11
-- name: bdls-admin
-  maintainers:
-  - ahmed82
-- name: bdls-maintainers
-  maintainers:
-  - ahmed82
-  members:
-  - sadityakumar9211
-- name: blockchain-carbon-accounting-committers
-  maintainers:
-  - knagware9
-  members:
-  - VadneyK
 - name: blockchain-explorer-admins
   maintainers:
   - arsulegai
@@ -323,24 +310,9 @@ repositories:
     aifaq-maintainers: maintain
     security-managers: read
   visibility: public
-- name: aries-agent-controller
-  teams:
-    security-managers: read
-  visibility: public
-- name: bdls
-  teams:
-    bdls-admin: maintain
-    bdls-maintainers: maintain
-    security-managers: read
-  visibility: public
 - name: benchmarking-cross-chain-bridge-aggregators
   teams:
     bccb-maintainers: maintain
-    security-managers: read
-  visibility: public
-- name: blockchain-carbon-accounting
-  teams:
-    blockchain-carbon-accounting-committers: maintain
     security-managers: read
   visibility: public
 - name: blockchain-explorer
