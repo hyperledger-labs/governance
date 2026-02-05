@@ -39,13 +39,6 @@ teams:
   members:
   - Hejwo
   - umegbewe
-- name: fabric-ansible-collection-committers
-  maintainers:
-  - mbwhite
-  members:
-  - MuthuSundaravadivel
-  - celder628
-  - modemn
 - name: fabric-builder-k8s-maintainers
   maintainers:
   - jt-nti
@@ -179,15 +172,6 @@ teams:
   - cryptphil
   - ravi0131
   - sophia1ch
-- name: private-data-objects-committers
-  maintainers:
-  - cmickeyb
-  members:
-  - IyNew-Letni
-  - bvavala
-  - g2flyer
-  - marcelamelara
-  - prakashngit
 - name: security-managers
   maintainers:
   - hartm
@@ -363,11 +347,6 @@ repositories:
     fablo-maintainers: maintain
     security-managers: read
   visibility: public
-- name: fabric-ansible-collection
-  teams:
-    fabric-ansible-collection-committers: maintain
-    security-managers: read
-  visibility: public
 - name: fabric-builder-k8s
   teams:
     fabric-builder-k8s-maintainers: admin
@@ -434,11 +413,6 @@ repositories:
     microfab-maintainers: maintain
     security-managers: read
   visibility: public
-- name: pdo-contracts
-  teams:
-    private-data-objects-committers: maintain
-    security-managers: read
-  visibility: public
 - name: perun-cosmwasm-backend
   teams:
     perun-committers: maintain
@@ -486,11 +460,6 @@ repositories:
   visibility: public
 - name: pluggable-hcs
   teams:
-    security-managers: read
-  visibility: public
-- name: private-data-objects
-  teams:
-    private-data-objects-committers: maintain
     security-managers: read
   visibility: public
 - name: SmartBFT
