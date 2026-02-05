@@ -4,22 +4,6 @@ teams:
   - gcapuzzi
   members:
   - swaptr
-- name: bccb-maintainers
-  maintainers:
-  - tkuhrt
-  members:
-  - AndreAugusto11
-- name: blockchain-explorer-admins
-  maintainers:
-  - arsulegai
-  members:
-  - ArchanaArige
-- name: blockchain-explorer
-  maintainers:
-  - arsulegai
-  members:
-  - ArchanaArige
-  - adityajoshi12
 - name: cc-tools-admin
   maintainers:
   - samuelvenzi
@@ -297,17 +281,6 @@ repositories:
 - name: aifaq
   teams:
     aifaq-maintainers: maintain
-    security-managers: read
-  visibility: public
-- name: benchmarking-cross-chain-bridge-aggregators
-  teams:
-    bccb-maintainers: maintain
-    security-managers: read
-  visibility: public
-- name: blockchain-explorer
-  teams:
-    blockchain-explorer: maintain
-    blockchain-explorer-admins: maintain
     security-managers: read
   visibility: public
 - name: cardea
