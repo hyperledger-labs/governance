@@ -61,6 +61,19 @@ teams:
   - MuthuSundaravadivel
   - shoaebjindani
   - Thomas-Leung
+- name: fabric-chaincode-builder-maintainers
+  maintainers:
+  - Thomas-Leung
+  members:
+  - shoaebjindani
+  - MuthuSundaravadivel
+- name: fabric-ansible-collection-committers
+  maintainers:
+  - mbwhite
+  members:
+  - MuthuSundaravadivel
+  - celder628
+  - modemn
 - name: fabric-operator-committers
   maintainers:
   - denyeart
@@ -172,6 +185,11 @@ teams:
   - cryptphil
   - ravi0131
   - sophia1ch
+- name: fabric-ansible-collection
+  teams:
+    fabric-ansible-collection-committers: maintain
+    security-managers: read
+  visibility: public
 - name: security-managers
   maintainers:
   - hartm
@@ -350,6 +368,11 @@ repositories:
 - name: fabric-builder-k8s
   teams:
     fabric-builder-k8s-maintainers: admin
+    security-managers: read
+  visibility: public
+- name: fabric-chaincode-builder
+  teams:
+    fabric-chaincode-builder-maintainers: maintain
     security-managers: read
   visibility: public
 - name: fabric-channeled-add-ons-gen
