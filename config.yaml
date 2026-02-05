@@ -365,6 +365,11 @@ repositories:
     fablo-maintainers: maintain
     security-managers: read
   visibility: public
+- name: fabric-ansible-collection
+  teams:
+    fabric-ansible-collection-committers: maintain
+    security-managers: read
+  visibility: public
 - name: fabric-builder-k8s
   teams:
     fabric-builder-k8s-maintainers: admin
