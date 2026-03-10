@@ -229,6 +229,8 @@ teams:
   - jose-velasco-ieu
   - jagathweerasinghe-da
   - krzysztofczyz-da
+  - tom-da
+  - fabiotudone-da
 - name: splice-wallet-kernel-admins
   maintainers:
   - isegall-da
