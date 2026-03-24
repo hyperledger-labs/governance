@@ -4,6 +4,14 @@ teams:
   - gcapuzzi
   members:
   - swaptr
+- name: bdls-admin
+  maintainers:
+  - ahmed82
+- name: bdls-maintainers
+  maintainers:
+  - ahmed82
+  members:
+  - sadityakumar9211
 - name: cc-tools-admin
   maintainers:
   - samuelvenzi
@@ -281,6 +289,12 @@ repositories:
 - name: aifaq
   teams:
     aifaq-maintainers: maintain
+    security-managers: read
+  visibility: public
+- name: bdls
+  teams:
+    bdls-admin: maintain
+    bdls-maintainers: maintain
     security-managers: read
   visibility: public
 - name: cardea
