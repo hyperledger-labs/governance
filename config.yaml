@@ -261,14 +261,15 @@ teams:
   - fayi-da
   - mateuszpiatkowski-da
   - joel-da
-  - v9n
-  - sbile
-  - pixelplex
   - dasormeter
   - jordan-da
   - sammy-da
   - jonathan-klein-da
   - jaspervdj-da
+  - mziolekda
+  - jarekr-da
+  - Viktor-Kalashnykov-da
+  - tudor-da
 - name: yui-committers
   maintainers:
   - '3100'
