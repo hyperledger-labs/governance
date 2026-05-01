@@ -211,65 +211,6 @@ teams:
   - pfi79
   - tock-ibm
   - HagarMeir
-- name: splice-admins
-  maintainers:
-  - waynecollier-da
-  members:
-  - isegall-da
-  - martinflorian-da
-  - moritzkiefer-da
-  - ray-roestenburg-da
-  - canton-network-da
-- name: splice-contributors
-  maintainers:
-  - waynecollier-da
-  members:
-  - meiersi-da
-  - rautenrieth-da
-  - stephencompall-DA
-  - nicu-da
-  - fayi-da
-  - OriolMunoz-da
-  - julientinguely-da
-  - pawelperek-da
-  - pasindutennage-da
-  - mblaze-da
-  - dfordivam
-  - adetokunbo
-  - jose-velasco-ieu
-  - jagathweerasinghe-da
-  - krzysztofczyz-da
-  - tom-da
-  - fabiotudone-da
-- name: splice-wallet-kernel-admins
-  maintainers:
-  - isegall-da
-  members:
-  - mjuchli-da
-  - PHOL-DA
-  - daravep
-- name: splice-wallet-kernel-contributors
-  maintainers:
-  - PHOL-DA
-  members:
-  - alexmatson-da
-  - davidrichards-da
-  - matteolimberto-da
-  - pawelstepien-da
-  - da-tanabe
-  - rukmini-basu-da
-  - fayi-da
-  - mateuszpiatkowski-da
-  - joel-da
-  - dasormeter
-  - jordan-da
-  - sammy-da
-  - jonathan-klein-da
-  - jaspervdj-da
-  - mziolekda
-  - jarekr-da
-  - Viktor-Kalashnykov-da
-  - tudor-da
 - name: yui-committers
   maintainers:
   - '3100'
@@ -508,12 +449,6 @@ repositories:
   teams:
     security-managers: read
     smartbft-maintainers: maintain
-  visibility: public
-- name: splice-wallet-kernel
-  teams:
-    security-managers: read
-    splice-wallet-kernel-admins: admin
-    splice-wallet-kernel-contributors: maintain
   visibility: public
 - name: TDIDN
   teams:
