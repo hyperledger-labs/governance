@@ -509,24 +509,6 @@ repositories:
     security-managers: read
     smartbft-maintainers: maintain
   visibility: public
-- name: splice
-  teams:
-    security-managers: read
-    splice-admins: admin
-    splice-contributors: maintain
-  visibility: public
-- name: splice-runner-container-hooks
-  teams:
-    security-managers: read
-    splice-admins: admin
-    splice-contributors: maintain
-  visibility: public
-- name: splice-shared-gha
-  teams:
-    security-managers: read
-    splice-admins: admin
-    splice-contributors: maintain
-  visibility: public
 - name: splice-wallet-kernel
   teams:
     security-managers: read
