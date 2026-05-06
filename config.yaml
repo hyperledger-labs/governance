@@ -91,22 +91,13 @@ teams:
 - name: fabric-smart-client-committers
   maintainers:
   - adecaro
-  - yacovm
+  - mbrandenburger
   members:
-  - aaadir
   - AkramBitar
   - ale-linux
-  - alexandrosfilios
   - arner
-  - barvhaim
-  - drucker-nir
-  - Effi-S
-  - HayimShaul
   - KElkhiyaoui
-  - kushnireyal
   - mbrandenburger
-  - nitsatiisc
-  - omri-so
   - SaidAltury-ibm
 - name: fabric-token-java-sdk-maintainers
   maintainers:
