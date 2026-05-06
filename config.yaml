@@ -97,7 +97,6 @@ teams:
   - ale-linux
   - arner
   - KElkhiyaoui
-  - mbrandenburger
   - SaidAltury-ibm
 - name: fabric-token-java-sdk-maintainers
   maintainers:
