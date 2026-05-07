@@ -32,10 +32,10 @@ teams:
   - mikaellafs
 - name: documentation-template-committers
   maintainers:
-  - tkuhrt
+  - ryjones
 - name: electrodo-docs-maintainers
   maintainers:
-  - tkuhrt
+  - ryjones
 - name: fablo-admins
   maintainers:
   - dzikowski
@@ -131,13 +131,12 @@ teams:
   - nithin-pankaj
 - name: hyperledger-community-management-tools-committers
   maintainers:
-  - tkuhrt
+  - ryjones
 - name: lab-stewards
   maintainers:
-  - tkuhrt
+  - mbrandenburger
   members:
   - alvaropicazo
-  - mbrandenburger
   - nidhi-singh02
 - name: learning-tokens-maintainers
   maintainers:
@@ -192,7 +191,6 @@ teams:
 - name: security-notices
   maintainers:
   - ryjones
-  - tkuhrt
 - name: smartbft-maintainers
   maintainers:
   - yacovm
