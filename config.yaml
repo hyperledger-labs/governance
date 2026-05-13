@@ -127,7 +127,6 @@ teams:
   - arsulegai
   members:
   - adityajoshi12
-  - nidhi-singh02
   - nithin-pankaj
 - name: hyperledger-community-management-tools-committers
   maintainers:
@@ -137,7 +136,6 @@ teams:
   - mbrandenburger
   members:
   - alvaropicazo
-  - nidhi-singh02
 - name: learning-tokens-maintainers
   maintainers:
   - TanjinAlam
