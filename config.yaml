@@ -101,27 +101,6 @@ teams:
 - name: fabric-token-java-sdk-maintainers
   maintainers:
   - adecaro
-- name: fabric-token-sdk-committers
-  maintainers:
-  - adecaro
-  - yacovm
-  members:
-  - aaadir
-  - AkramBitar
-  - ale-linux
-  - alexandrosfilios
-  - arner
-  - barvhaim
-  - drucker-nir
-  - Effi-S
-  - HayimShaul
-  - KElkhiyaoui
-  - kushnireyal
-  - mbrandenburger
-  - nitsatiisc
-  - omri-so
-  - SaidAltury-ibm
-  - sreenidhidrIBM
 - name: hlf-connector-maintainers
   maintainers:
   - arsulegai
@@ -344,11 +323,6 @@ repositories:
 - name: fabric-smart-client
   teams:
     fabric-smart-client-committers: admin
-    security-managers: read
-  visibility: public
-- name: fabric-token-sdk
-  teams:
-    fabric-token-sdk-committers: admin
     security-managers: read
   visibility: public
 - name: go-perun
