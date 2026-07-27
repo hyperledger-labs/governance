@@ -118,11 +118,11 @@ teams:
 - name: learning-tokens-maintainers
   maintainers:
   - TanjinAlam
-  - nosoypoot
   members:
   - noemi128
   - AlfonsoGovela 
   - NeoZ666
+  - nosoypoot
 - name: learning-tokens-mentees
   maintainers:
   - noemi128
