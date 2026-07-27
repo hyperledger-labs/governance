@@ -118,13 +118,15 @@ teams:
 - name: learning-tokens-maintainers
   maintainers:
   - TanjinAlam
+  - AlfonsoGovela
   members:
   - noemi128
-  - AlfonsoGovela 
   - NeoZ666
+  - nosoypoot
 - name: learning-tokens-mentees
   maintainers:
   - noemi128
+  - AlfonsoGovela
   members:
   - Ankita0112
   - AviraL0013
