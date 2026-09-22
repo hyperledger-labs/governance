@@ -170,14 +170,6 @@ teams:
 - name: security-notices
   maintainers:
   - ryjones
-- name: smartbft-maintainers
-  maintainers:
-  - yacovm
-  members:
-  - C0rWin
-  - pfi79
-  - tock-ibm
-  - HagarMeir
 - name: yui-committers
   maintainers:
   - '3100'
@@ -406,11 +398,6 @@ repositories:
 - name: pluggable-hcs
   teams:
     security-managers: read
-  visibility: public
-- name: SmartBFT
-  teams:
-    security-managers: read
-    smartbft-maintainers: maintain
   visibility: public
 - name: TDIDN
   teams:
